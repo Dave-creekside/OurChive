@@ -1,0 +1,1057 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://xqxucnly.manus.space/
+Subject: ZX Calculus: A Comprehensive Guide
+Date: Wed, 23 Apr 2025 17:55:43 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----"
+
+
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: text/html
+Content-ID: <frame-1456C1395A0C7BFC677434E12CF8EE14@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZX Calculus: A Comprehensive Guide</title>
+    <link rel="stylesheet" href="https://xqxucnly.manus.space/styles.css">
+</head>
+<body>
+    <header>
+        <h1>ZX Calculus: A Comprehensive Guide</h1>
+        <p class="subtitle">From Fundamentals to Advanced Applications</p>
+    </header>
+
+    <nav id="table-of-contents">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="https://xqxucnly.manus.space/#introduction" class="toc-link">Introduction</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter1" class="toc-link">Chapter 1: Introduction to ZX Calculus</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter2" class="toc-link">Chapter 2: Fundamentals of ZX Diagrams</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter3" class="toc-link">Chapter 3: The Rules of ZX Calculus</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter4" class="toc-link">Chapter 4: From Quantum Circuits to ZX Diagrams</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter5" class="toc-link">Chapter 5: Interpreting ZX Diagrams</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter6" class="toc-link">Chapter 6: Simplifying Quantum Circuits</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter7" class="toc-link">Chapter 7: ZX Calculus for Quantum Algorithms</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter8" class="toc-link">Chapter 8: Advanced Topics in ZX Calculus</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter9" class="toc-link">Chapter 9: Practical Applications with Software Tools</a></li>
+            <li><a href="https://xqxucnly.manus.space/#chapter10" class="toc-link">Chapter 10: Future Directions and Open Problems</a></li>
+            <li class="appendix"><a href="https://xqxucnly.manus.space/#appendixA" class="toc-link">Appendix A: Mathematical Background</a></li>
+            <li class="appendix"><a href="https://xqxucnly.manus.space/#appendixB" class="toc-link">Appendix B: ZX Calculus Rule Reference</a></li>
+            <li class="appendix"><a href="https://xqxucnly.manus.space/#appendixC" class="toc-link">Appendix C: Glossary of Terms</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introduction">
+            <h2>Welcome to ZX Calculus</h2>
+            <p>
+                Welcome to this comprehensive guide on ZX calculus in quantum computing. This book aims to provide a complete introduction to ZX calculus from the ground up, making it accessible to anyone with a basic understanding of quantum computing concepts.
+            </p>
+            <p>
+                ZX calculus is a graphical language that goes beyond circuit diagrams. It 'splits the atom' of well-known quantum logic gates to reveal the compositional structure inside. The calculus works by generalizing the ideas of Z and X operations, allowing us to break out of the circuit model while maintaining soundness of reasoning.
+            </p>
+            <p>
+                Throughout this book, we'll explore the fundamentals of ZX diagrams, the rules that govern them, and how they can be applied to solve real problems in quantum computing. We'll see how ZX calculus is forging the next generation of quantum software, providing optimization strategies for fault-tolerant computing, and serving as a visual design and verification language for quantum codes.
+            </p>
+            <p>
+                Whether you're a student, researcher, or quantum computing enthusiast, this book will guide you through the fascinating world of ZX calculus with clear explanations, helpful diagrams, and practical examples.
+            </p>
+            <p>
+                Let's begin our journey into the world of ZX calculus!
+            </p>
+        </section>
+
+        <section id="how-to-use">
+            <h2>How to Use This Book</h2>
+            <p>
+                This book is designed to be read sequentially from beginning to end, as each chapter builds upon concepts introduced in previous chapters. However, if you're already familiar with certain aspects of ZX calculus, feel free to jump to specific chapters of interest using the table of contents.
+            </p>
+            <p>
+                Each chapter includes:
+            </p>
+            <ul>
+                <li>Clear explanations of concepts</li>
+                <li>Visual diagrams to aid understanding</li>
+                <li>Examples that demonstrate practical applications</li>
+                <li>Key points summarized at the end of each chapter</li>
+            </ul>
+            <p>
+                The appendices provide additional reference material that you may find useful throughout your study of ZX calculus.
+            </p>
+        </section>
+
+        <!-- Chapter 1 -->
+        <section id="chapter1" class="chapter-title">
+            <h2>Chapter 1: Introduction to ZX Calculus</h2>
+            
+            <section id="what-is-zx-calculus">
+                <h3>What is ZX Calculus?</h3>
+                
+                <p>ZX calculus is a graphical language for reasoning about quantum computation that goes beyond traditional circuit diagrams. Imagine being able to "split the atom" of well-known quantum logic gates to reveal the compositional structure inside. That's essentially what ZX calculus allows us to do. It provides a visual and intuitive way to represent and manipulate quantum processes, making complex quantum operations more accessible and easier to understand.</p>
+                
+                <p>At its core, ZX calculus is built around two fundamental components: Z-spiders (typically drawn as green circles) and X-spiders (typically drawn as red circles). These spiders, connected by wires, form diagrams that represent quantum states, operations, and entire algorithms. What makes ZX calculus particularly powerful is that these diagrams aren't just visual aidsâ€”they come with a rigorous mathematical foundation that allows for formal reasoning and proofs.</p>
+                
+                <p>The "ZX" in ZX calculus refers to the Pauli Z and X operators from quantum mechanics. These operators represent two complementary types of quantum behavior, and the interplay between them forms the basis of the calculus. By generalizing these operators into spider nodes that can have any number of inputs and outputs, ZX calculus creates a flexible framework for representing quantum processes.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/simple_zx_diagram.png" alt="Basic ZX calculus elements showing Z-spiders (green circles), X-spiders (red circles), and connecting wires" class="diagram-img">
+                    <p class="caption">Figure 1.1: The basic building blocks of ZX calculus: Z-spiders (green), X-spiders (red), and connecting wires.</p>
+                </div>
+                
+                <p>One of the most remarkable aspects of ZX calculus is that it allows us to break out of the rigid structure of the circuit model while maintaining soundness of reasoning. In traditional quantum circuit diagrams, operations must follow a strict left-to-right flow, with gates applied in sequence. ZX diagrams, on the other hand, are more flexible. They can be deformed and rearranged as long as the connectivity between nodes remains the same, making certain patterns and optimizations more apparent.</p>
+                
+                <p>ZX calculus isn't just a theoretical toolâ€”it has practical applications in quantum computing. It's being used for quantum circuit optimization, particularly for reducing T-count (an important metric for fault-tolerant quantum computing), designing and verifying quantum error correction codes, and serving as an intermediate representation in quantum compilers. As quantum computing continues to advance, ZX calculus is becoming an increasingly important tool in the quantum computer scientist's toolkit.</p>
+            </section>
+            
+            <section id="historical-development">
+                <h3>Historical Development</h3>
+                
+                <p>The story of ZX calculus begins with the broader field of categorical quantum mechanics, which aims to apply category theory to quantum physics. Category theory is a branch of mathematics that deals with abstract structures and the relationships between them, making it well-suited for describing the compositional nature of quantum processes.</p>
+                
+                <p>ZX calculus was first introduced by Bob Coecke and Ross Duncan in 2008 in their paper "Interacting Quantum Observables: Categorical Algebra and Diagrammatics." Their work built upon earlier research in categorical quantum mechanics, particularly the use of string diagrams to represent morphisms in monoidal categories. What Coecke and Duncan did was to specialize these abstract diagrams to the specific case of qubit quantum mechanics, focusing on the complementary observables represented by the Pauli Z and X operators.</p>
+                
+                <p>In the early days, ZX calculus was primarily a theoretical tool used by researchers in quantum foundations and category theory. The initial ruleset was relatively simple, consisting of the spider fusion rules, the Hadamard rule, the Ï€-copy rule, and a few others. While these rules were sufficient for reasoning about many quantum processes, they weren't completeâ€”meaning there were true statements about quantum mechanics that couldn't be proven using only these rules.</p>
+                
+                <p>A significant milestone in the development of ZX calculus came in 2018 when several research groups independently proved the completeness of various fragments of ZX calculus. Emmanuel Jeandel, Simon Perdrix, and Renaud Vilmart proved the completeness of ZX calculus for the Clifford+T fragment of quantum mechanics, while Miriam Backens, Simon Perdrix, and Quanlong Wang proved completeness for the Clifford fragment. Later that same year, Jeandel, Perdrix, and Vilmart extended their result to prove the completeness of ZX calculus for all of qubit quantum mechanics.</p>
+                
+                <p>These completeness results were a game-changer. They showed that, in principle, any true statement about qubit quantum mechanics could be proven diagrammatically using ZX calculus. This opened the door for more practical applications, as researchers could now be confident that the graphical approach wasn't missing anything essential.</p>
+                
+                <p>Around the same time, researchers began to explore the practical applications of ZX calculus for quantum computing. Aleks Kissinger and John van de Wetering developed PyZX, a Python library for working with ZX diagrams, and demonstrated its effectiveness for quantum circuit optimization. They showed that ZX-based optimization techniques could outperform traditional methods for reducing T-count in certain quantum circuits.</p>
+                
+                <p>In recent years, ZX calculus has continued to gain traction in the quantum computing community. It's being used for a variety of applications, including quantum circuit optimization, surface code compilation, measurement-based quantum computing, and quantum foundations research. As quantum computers continue to advance, ZX calculus is likely to play an increasingly important role in bridging the gap between theoretical quantum algorithms and their practical implementation on real quantum hardware.</p>
+            </section>
+            
+            <section id="why-zx-calculus-matters">
+                <h3>Why ZX Calculus Matters in Quantum Computing</h3>
+                
+                <p>You might be wondering: with all the existing tools and notations for quantum computing, why do we need ZX calculus? What makes it special compared to traditional quantum circuit diagrams or mathematical formalisms like the Dirac notation? Let's explore some of the key reasons why ZX calculus has become an increasingly important tool in quantum computing.</p>
+                
+                <h4>Intuitive Visualization of Quantum Processes</h4>
+                
+                <p>One of the greatest strengths of ZX calculus is its visual nature. Quantum mechanics is notoriously counterintuitive, and the standard mathematical formalisms can be abstract and difficult to grasp. ZX diagrams provide a more intuitive way to represent quantum processes, making it easier to see patterns and understand the flow of information. The graphical nature of ZX calculus can help build intuition about quantum mechanics, even for those without an extensive mathematical background.</p>
+                
+                <h4>Flexible Representation Beyond Circuits</h4>
+                
+                <p>Traditional quantum circuit diagrams are limited by their rigid structure. Operations must follow a strict left-to-right flow, and the number of qubits (wires) must remain constant throughout the circuit. ZX diagrams break free from these constraints. Wires can be added or removed, representing the creation or measurement of qubits. Diagrams can be deformed and rearranged as long as the connectivity remains the same, making certain patterns more apparent. This flexibility allows ZX calculus to represent quantum processes that don't fit neatly into the circuit model, such as measurement-based quantum computing or certain error correction procedures.</p>
+                
+                <h4>Powerful Rewriting System for Optimization</h4>
+                
+                <p>ZX calculus comes with a set of rewriting rules that allow diagrams to be transformed while preserving their meaning. These rules provide a powerful framework for optimizing quantum circuits. For example, ZX-based optimization techniques have been shown to be particularly effective for reducing T-count, which is an important metric for fault-tolerant quantum computing. The graphical nature of ZX calculus makes it easier to spot opportunities for optimization that might be missed in other representations.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/optimization_example.png" alt="Example of circuit optimization using ZX calculus, showing before and after states" class="diagram-img">
+                    <p class="caption">Figure 1.2: An example of circuit optimization using ZX calculus. The circuit on the left can be transformed into the simpler equivalent circuit on the right using ZX rewriting rules.</p>
+                </div>
+                
+                <h4>Bridge Between Different Quantum Computing Paradigms</h4>
+                
+                <p>Quantum computing encompasses several different paradigms, including the circuit model, measurement-based quantum computing, and topological quantum computing. ZX calculus provides a common language that can bridge these different approaches. For example, it can represent both circuit-based and measurement-based computations, making it easier to translate between these paradigms and understand their relationships.</p>
+                
+                <h4>Formal Verification and Correctness</h4>
+                
+                <p>As quantum algorithms and protocols become more complex, ensuring their correctness becomes increasingly important. ZX calculus, with its rigorous mathematical foundation and complete set of rewriting rules, provides a framework for formal verification of quantum processes. Proofs in ZX calculus can be more intuitive and easier to check than traditional algebraic proofs, potentially reducing the risk of errors in quantum algorithm design.</p>
+                
+                <h4>Practical Applications in Quantum Software</h4>
+                
+                <p>ZX calculus isn't just a theoretical toolâ€”it's finding practical applications in quantum software development. It's being used as an intermediate representation in quantum compilers, helping to bridge the gap between high-level quantum algorithms and their implementation on specific quantum hardware. Libraries like PyZX are making ZX calculus accessible to quantum software developers, allowing them to leverage its power for circuit optimization and analysis.</p>
+                
+                <p>In summary, ZX calculus matters because it provides a powerful, flexible, and intuitive framework for reasoning about quantum computation. It combines the visual clarity of circuit diagrams with the mathematical rigor of formal systems, creating a tool that's both practical for quantum software development and insightful for theoretical understanding. As quantum computing continues to advance, ZX calculus is likely to play an increasingly important role in the development and optimization of quantum algorithms and protocols.</p>
+            </section>
+            
+            <section id="book-organization">
+                <h3>How This Book is Organized</h3>
+                
+                <p>This book is designed to take you on a journey through ZX calculus, starting from the basic concepts and gradually building up to advanced applications. Whether you're a student, researcher, or quantum computing enthusiast, this book aims to provide a comprehensive understanding of ZX calculus and its applications in quantum computing.</p>
+                
+                <p>Here's an overview of what you'll find in each chapter:</p>
+                
+                <h4>Chapter 1: Introduction to ZX Calculus</h4>
+                
+                <p>That's where we are now! This chapter introduces the concept of ZX calculus, its historical development, and why it matters in quantum computing. It sets the stage for the rest of the book by providing context and motivation.</p>
+                
+                <h4>Chapter 2: Fundamentals of ZX Diagrams</h4>
+                
+                <p>This chapter dives into the basic building blocks of ZX calculus: Z-spiders, X-spiders, and wires. It explains the meta-rules that govern ZX diagrams, such as "only connectivity matters" and "everything is still true if you swap red and green." You'll learn how to read and interpret ZX diagrams, and understand the role of phases and angles.</p>
+                
+                <h4>Chapter 3: The Rules of ZX Calculus</h4>
+                
+                <p>Here, we explore the rewriting rules that form the heart of ZX calculus. You'll learn about spider fusion, the Hadamard rule, the Ï€-commutation rule, and other key rules. We'll also discuss the concept of completeness and what it means for a set of rules to be complete.</p>
+                
+                <h4>Chapter 4: From Quantum Circuits to ZX Diagrams</h4>
+                
+                <p>This chapter bridges the gap between traditional quantum circuits and ZX diagrams. You'll learn how to represent common quantum gates (Pauli gates, Hadamard gate, phase gates, CNOT gate) in ZX calculus, and how to convert entire circuits to ZX diagrams. We'll also discuss the advantages of the ZX representation compared to circuit diagrams.</p>
+                
+                <h4>Chapter 5: Interpreting ZX Diagrams</h4>
+                
+                <p>In this chapter, we delve deeper into the mathematical interpretation of ZX diagrams. You'll learn how to interpret diagrams as matrices, how to break down complex diagrams using tensor products and composition, and how to calculate quantum amplitudes from ZX diagrams.</p>
+                
+                <h4>Chapter 6: Simplifying Quantum Circuits</h4>
+                
+                <p>This chapter focuses on one of the most practical applications of ZX calculus: quantum circuit optimization. You'll learn strategies for simplifying circuits, reducing T-count, and applying transformations like local complementation and the pivot rule. We'll walk through practical examples to demonstrate these techniques.</p>
+                
+                <h4>Chapter 7: ZX Calculus for Quantum Algorithms</h4>
+                
+                <p>Here, we apply ZX calculus to represent and reason about quantum algorithms and protocols. You'll see how quantum teleportation, error correction, and measurement-based quantum computing can be elegantly represented and analyzed using ZX diagrams.</p>
+                
+                <h4>Chapter 8: Advanced Topics in ZX Calculus</h4>
+                
+                <p>This chapter explores more advanced aspects of ZX calculus, including the ZXH-calculus (which incorporates the H-box as a primitive), different fragments of ZX calculus (Clifford, Clifford+T, Universal), connections to categorical quantum mechanics, and applications in quantum machine learning.</p>
+                
+                <h4>Chapter 9: Practical Applications with Software Tools</h4>
+                
+                <p>In this chapter, we introduce software tools for working with ZX calculus, particularly PyZX. You'll learn how to use these tools for circuit visualization, optimization, and analysis. We'll also discuss how ZX calculus is being integrated into quantum programming frameworks and compilers.</p>
+                
+                <h4>Chapter 10: Future Directions and Open Problems</h4>
+                
+                <p>The final chapter looks ahead to the future of ZX calculus. We'll discuss ongoing research, open problems, and potential future applications. We'll also explore how ZX calculus might evolve as quantum computing continues to advance.</p>
+                
+                <h4>Appendices</h4>
+                
+                <p>The book includes three appendices that provide additional reference material:</p>
+                
+                <ul>
+                    <li>Appendix A: Mathematical Background - Provides a brief overview of the mathematical concepts underlying ZX calculus, including linear algebra, category theory, and quantum mechanics.</li>
+                    <li>Appendix B: ZX Calculus Rule Reference - A comprehensive reference of all the rewriting rules in ZX calculus, with examples and explanations.</li>
+                    <li>Appendix C: Glossary of Terms - Definitions of key terms and concepts used throughout the book.</li>
+                </ul>
+                
+                <p>Now that you have an overview of what to expect, let's dive into the fundamentals of ZX diagrams in the next chapter.</p>
+            </section>
+            
+            <p><a href="https://xqxucnly.manus.space/#table-of-contents" class="toc-link">Back to Table of Contents</a></p>
+        </section>
+
+        <!-- Chapter 2 -->
+        <section id="chapter2" class="chapter-title">
+            <h2>Chapter 2: Fundamentals of ZX Diagrams</h2>
+            
+            <section id="building-blocks">
+                <h3>The Building Blocks: Z-spiders and X-spiders</h3>
+                
+                <p>At the heart of ZX calculus are two fundamental components: Z-spiders and X-spiders. These graphical elements are the building blocks from which all ZX diagrams are constructed. Let's explore what these spiders are and how they form the foundation of the ZX calculus.</p>
+                
+                <h4>Z-spiders: The Green Nodes</h4>
+                
+                <p>Z-spiders are typically represented as green circles in ZX diagrams. Each Z-spider can have any number of inputs and outputs (including zero), and carries a phase parameter Î±, which is a real number. When the phase is 0, it's often omitted from the diagram for simplicity.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/z_spider_multi.png" alt="Z-spider with multiple input and output wires, labeled with phase Î±" class="diagram-img">
+                    <p class="caption">Figure 2.1: A Z-spider with phase Î± and multiple input and output wires.</p>
+                </div>
+                
+                <p>Mathematically, a Z-spider represents a linear map that can be expressed as:</p>
+                
+                <p>|0âŸ©âŸ¨0|<sup>âŠ—m</sup> + e<sup>iÎ±</sup>|1âŸ©âŸ¨1|<sup>âŠ—m</sup></p>
+                
+                <p>where m is the number of inputs and outputs. Don't worry if this mathematical representation seems abstractâ€”the power of ZX calculus is that we can reason about these objects graphically without always referring to their underlying mathematical meaning.</p>
+                
+                <p>Intuitively, you can think of a Z-spider as a kind of generalized Z rotation in quantum computing. The standard Z gate in quantum computing is just a special case of a Z-spider with one input, one output, and a phase of Ï€.</p>
+                
+                <h4>X-spiders: The Red Nodes</h4>
+                
+                <p>X-spiders are the counterparts to Z-spiders and are typically represented as red circles. Like Z-spiders, X-spiders can have any number of inputs and outputs and carry a phase parameter Î±.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/x_spider_multi.png" alt="X-spider with multiple input and output wires, labeled with phase Î±" class="diagram-img">
+                    <p class="caption">Figure 2.2: An X-spider with phase Î± and multiple input and output wires.</p>
+                </div>
+                
+                <p>Mathematically, an X-spider represents a linear map that can be expressed as:</p>
+                
+                <p>|+âŸ©âŸ¨+|<sup>âŠ—m</sup> + e<sup>iÎ±</sup>|-âŸ©âŸ¨-|<sup>âŠ—m</sup></p>
+                
+                <p>where |+âŸ© and |-âŸ© are the eigenstates of the Pauli X operator.</p>
+                
+                <p>X-spiders are related to Z-spiders by a change of basis. In fact, an X-spider can be thought of as a Z-spider with Hadamard gates applied to each of its inputs and outputs. This relationship between X and Z spiders is a manifestation of the complementarity between the Z and X bases in quantum mechanics.</p>
+                
+                <h4>Special Cases of Spiders</h4>
+                
+                <p>Certain configurations of spiders have special interpretations:</p>
+                
+                <ul>
+                    <li><strong>Spider with no inputs and one output</strong>: Represents state preparation. For a Z-spider, this creates the state |0âŸ© + e<sup>iÎ±</sup>|1âŸ© (up to normalization).</li>
+                    <li><strong>Spider with one input and no outputs</strong>: Represents measurement. For a Z-spider, this corresponds to measuring in the Z basis.</li>
+                    <li><strong>Spider with one input and one output</strong>: Represents a phase gate. For a Z-spider with phase Î±, this is equivalent to the gate |0âŸ©âŸ¨0| + e<sup>iÎ±</sup>|1âŸ©âŸ¨1|.</li>
+                    <li><strong>Spider with two inputs and one output</strong>: Can represent fusion of quantum states or a controlled operation, depending on the context.</li>
+                </ul>
+                
+                <p>The flexibility of spidersâ€”their ability to have any number of inputs and outputsâ€”is what gives ZX calculus its expressive power. Complex quantum operations can be built by connecting these simple building blocks in various ways.</p>
+            </section>
+            
+            <section id="wires-connectivity">
+                <h3>Wires and Connectivity</h3>
+                
+                <p>In ZX diagrams, spiders are connected by wires, which represent the flow of quantum information. Understanding how these wires work and what they represent is crucial for reading and creating ZX diagrams.</p>
+                
+                <h4>What Wires Represent</h4>
+                
+                <p>Wires in ZX diagrams represent quantum systemsâ€”typically qubits in the context of quantum computing. When a wire connects two spiders, it indicates that the output of one spider is fed as input to another spider. This is similar to how wires in quantum circuit diagrams represent qubits flowing through a sequence of gates.</p>
+                
+                <p>However, there's an important difference: in ZX calculus, wires don't have a fixed direction of information flow. While we typically draw diagrams with inputs on the left and outputs on the right, the underlying mathematical structure doesn't depend on this orientation. This flexibility allows for more natural representations of certain quantum phenomena, such as entanglement and teleportation.</p>
+                
+                <h4>Open Wires</h4>
+                
+                <p>Wires that don't connect to a spider on one end are called "open wires." These represent the inputs and outputs of the entire diagram:</p>
+                
+                <ul>
+                    <li><strong>Open wires on the left</strong>: Inputs to the diagram</li>
+                    <li><strong>Open wires on the right</strong>: Outputs from the diagram</li>
+                </ul>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/simple_zx_diagram.png" alt="ZX diagram with open wires on left (inputs) and right (outputs)" class="diagram-img">
+                    <p class="caption">Figure 2.3: A ZX diagram with open wires representing inputs and outputs.</p>
+                </div>
+                
+                <p>The number of input and output wires doesn't have to be the same. A diagram with more outputs than inputs can represent the creation of qubits, while a diagram with more inputs than outputs can represent the measurement or discarding of qubits.</p>
+                
+                <h4>Wire Bending and Crossing</h4>
+                
+                <p>One of the powerful features of ZX calculus is that the exact path a wire takes doesn't matterâ€”only the connectivity is important. This means we can bend, stretch, and rearrange wires as needed, as long as we don't change which spiders are connected to each other.</p>
+                
+                <p>Similarly, when wires cross in a diagram, it doesn't imply any interaction between the corresponding quantum systems. Wire crossings in ZX diagrams are simply a consequence of drawing a multi-dimensional quantum process on a two-dimensional page.</p>
+                
+                <h4>Loops and Self-Connections</h4>
+                
+                <p>In ZX calculus, it's possible for a wire to loop back and connect a spider to itself, or for multiple wires to connect the same pair of spiders. These configurations have specific interpretations:</p>
+                
+                <ul>
+                    <li><strong>Self-loop</strong>: A wire that connects a spider to itself represents a trace operation in the underlying mathematics, which can correspond to partial trace or feedback in quantum operations.</li>
+                    <li><strong>Multiple connections</strong>: When multiple wires connect the same pair of spiders, each wire represents a separate quantum system being passed between the spiders.</li>
+                </ul>
+                
+                <p>The ability to represent these more complex connectivity patterns is another advantage of ZX calculus over traditional circuit diagrams, which typically don't allow for such flexible connections.</p>
+            </section>
+            
+            <section id="meta-rules">
+                <h3>The Meta-Rules</h3>
+                
+                <p>Before diving into the specific rewriting rules of ZX calculus, it's important to understand two fundamental meta-rules that govern all ZX diagrams. These meta-rules capture essential properties of the graphical language and apply universally to all ZX diagrams.</p>
+                
+                <section id="connectivity-matters">
+                    <h4>Only connectivity matters</h4>
+                    
+                    <p>The first meta-rule of ZX calculus is that only connectivity matters. This means that the exact shape, size, or position of elements in a ZX diagram doesn't affect its meaningâ€”only the pattern of connections between spiders is significant.</p>
+                    
+                    <p>This rule has several important implications:</p>
+                    
+                    <ul>
+                        <li><strong>Wire bending is allowed</strong>: You can bend, stretch, or rearrange wires in any way, as long as you don't change which spiders are connected to which.</li>
+                        <li><strong>Spider position is flexible</strong>: You can move spiders around in the diagram without changing the meaning, as long as you maintain the same connections.</li>
+                        <li><strong>Wire crossings are not interactions</strong>: When wires cross in a diagram, it doesn't represent any interaction between the corresponding quantum systems.</li>
+                    </ul>
+                    
+                    <p>This meta-rule gives ZX calculus a topological flavorâ€”diagrams can be continuously deformed without changing their meaning, as long as the connectivity pattern is preserved. This is similar to how electrical circuit diagrams can be redrawn in different layouts without changing the circuit's function.</p>
+                    
+                    <p>The "only connectivity matters" rule makes ZX calculus more flexible than traditional quantum circuit diagrams, where the left-to-right ordering of gates is fixed and significant. In ZX calculus, we can rearrange the diagram to highlight patterns or simplify reasoning, which can lead to insights that might be obscured in a more rigid representation.</p>
+                </section>
+                
+                <section id="swap-red-green">
+                    <h4>Everything is still true if you swap red and green</h4>
+                    
+                    <p>The second meta-rule of ZX calculus is that everything remains true if you swap red and green throughout a diagram. This means that if you take any valid ZX diagram and swap all Z-spiders (green) with X-spiders (red) and vice versa, the resulting diagram will also be valid, and any rewriting rule that applies to the original diagram will have a corresponding rule that applies to the color-swapped diagram.</p>
+                    
+                    <p>This meta-rule reflects the fundamental symmetry between the Z and X bases in quantum mechanics. The Z basis (|0âŸ©, |1âŸ©) and the X basis (|+âŸ©, |-âŸ©) are complementary, and many quantum operations have dual forms in these two bases.</p>
+                    
+                    <div class="diagram">
+                        <img src="https://xqxucnly.manus.space/images/color_change_rule.png" alt="A ZX diagram and its color-swapped equivalent" class="diagram-img">
+                        <p class="caption">Figure 2.6: A ZX diagram and its color-swapped equivalent. Both represent valid quantum processes.</p>
+                    </div>
+                    
+                    <p>The color-swapping meta-rule has practical benefits for working with ZX calculus:</p>
+                    
+                    <ul>
+                        <li><strong>Doubling of rules</strong>: For every rewriting rule involving Z and X spiders, there's a corresponding rule with the colors swapped. This means we only need to remember half as many rules!</li>
+                        <li><strong>Alternative perspectives</strong>: Sometimes a quantum process is easier to understand or manipulate when viewed in the X basis rather than the Z basis, or vice versa. The color-swapping rule allows us to freely switch between these perspectives.</li>
+                        <li><strong>Symmetry checking</strong>: If a result seems suspicious, we can apply the color-swapping rule and check if the dual result also makes sense. This can help catch errors in reasoning.</li>
+                    </ul>
+                    
+                    <p>It's worth noting that while the color-swapping rule applies to the structure of ZX diagrams and the rewriting rules, it doesn't necessarily mean that the quantum processes represented by a diagram and its color-swapped version are equivalent. They are different processes, but they follow the same mathematical patterns.</p>
+                    
+                    <p>Together, these two meta-rulesâ€”"only connectivity matters" and "everything is still true if you swap red and green"â€”provide a powerful framework for reasoning about ZX diagrams. They capture essential symmetries and invariances in quantum mechanics, allowing us to manipulate diagrams in flexible ways while maintaining their mathematical meaning.</p>
+                </section>
+            </section>
+            
+            <p><a href="https://xqxucnly.manus.space/#table-of-contents" class="toc-link">Back to Table of Contents</a></p>
+        </section>
+
+        <!-- Chapter 3 -->
+        <section id="chapter3" class="chapter-title">
+            <h2>Chapter 3: The Rules of ZX Calculus</h2>
+            
+            <section id="introduction-ch3">
+                <p>In the previous chapter, we explored the fundamental building blocks of ZX calculus: Z-spiders, X-spiders, wires, and phases. Now we're ready to dive into the heart of ZX calculus: the rewriting rules that allow us to transform and simplify ZX diagrams while preserving their meaning.</p>
+                
+                <p>These rules are what make ZX calculus a powerful tool for reasoning about quantum processes. They allow us to manipulate diagrams in ways that would be difficult or non-intuitive in other notations, revealing patterns and optimizations that might otherwise remain hidden.</p>
+                
+                <p>In this chapter, we'll explore each of the core rules of ZX calculus, understand their meaning and applications, and see how they work together to form a complete system for reasoning about quantum computation. We'll start with the most fundamental ruleâ€”spider fusionâ€”and build up to more complex rules like the bialgebra and Hopf rules.</p>
+                
+                <p>Remember that due to the color-swapping meta-rule we discussed in Chapter 2, for every rule involving Z and X spiders, there's a corresponding rule with the colors swapped. To keep things concise, we'll typically present rules in terms of one color (usually green Z-spiders) with the understanding that the color-swapped version is also valid.</p>
+                
+                <p>Let's begin our exploration of the rules that power ZX calculus!</p>
+            </section>
+            
+            <section id="spider-fusion">
+                <h3>Spider Fusion Rules</h3>
+                
+                <p>The spider fusion rule is perhaps the most fundamental rule in ZX calculus. It states that when two spiders of the same color are connected by one or more wires, they can be fused into a single spider of that color, with the phase being the sum of the original phases.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/spider_fusion.png" alt="Two connected Z-spiders with phases Î± and Î² being fused into a single Z-spider with phase Î± + Î²" class="diagram-img">
+                    <p class="caption">Figure 3.1: The spider fusion rule. Two connected Z-spiders with phases Î± and Î² can be fused into a single Z-spider with phase Î± + Î².</p>
+                </div>
+                
+                <p>Mathematically, for Z-spiders, this rule can be expressed as:</p>
+                
+                <p>(|0âŸ©âŸ¨0|<sup>âŠ—m</sup> + e<sup>iÎ±</sup>|1âŸ©âŸ¨1|<sup>âŠ—m</sup>) Â· (|0âŸ©âŸ¨0|<sup>âŠ—n</sup> + e<sup>iÎ²</sup>|1âŸ©âŸ¨1|<sup>âŠ—n</sup>) = |0âŸ©âŸ¨0|<sup>âŠ—(m+n-2)</sup> + e<sup>i(Î±+Î²)</sup>|1âŸ©âŸ¨1|<sup>âŠ—(m+n-2)</sup></p>
+                
+                <p>Where m and n are the total number of connections (inputs and outputs) of each spider, and the dot represents composition along one wire.</p>
+                
+                <p>The spider fusion rule has a simple intuitive interpretation: spiders of the same color "speak the same language" and can be merged together. This rule is incredibly powerful because it allows us to simplify complex networks of connected spiders into simpler structures.</p>
+                
+                <h4>Multiple Connections</h4>
+                
+                <p>The spider fusion rule applies even when spiders are connected by multiple wires. In this case, all the connections are merged, and we still end up with a single spider whose phase is the sum of the original phases.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/copy_rule.png" alt="Two Z-spiders connected by multiple wires being fused into a single Z-spider" class="diagram-img">
+                    <p class="caption">Figure 3.2: Spider fusion with multiple connections. All connections between the spiders are merged.</p>
+                </div>
+                
+                <h4>Applications of Spider Fusion</h4>
+                
+                <p>The spider fusion rule has numerous applications in quantum circuit optimization and simplification:</p>
+                
+                <ul>
+                    <li><strong>Combining phase gates</strong>: Sequential phase gates of the same type can be combined into a single gate with the sum of the phases.</li>
+                    <li><strong>Simplifying complex networks</strong>: Networks of connected spiders of the same color can be reduced to simpler structures.</li>
+                    <li><strong>Revealing hidden patterns</strong>: By fusing spiders, we can sometimes reveal patterns that were obscured in the original diagram.</li>
+                </ul>
+                
+                <p>For example, consider a quantum circuit with two sequential Z-rotation gates, R<sub>Z</sub>(Î±) followed by R<sub>Z</sub>(Î²). In ZX calculus, these would be represented as two Z-spiders with phases Î± and Î². Using the spider fusion rule, we can combine them into a single Z-spider with phase Î± + Î², which corresponds to a single Z-rotation gate R<sub>Z</sub>(Î± + Î²).</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/hadamard_rule.png" alt="Two sequential Z-rotation gates being combined using spider fusion" class="diagram-img">
+                    <p class="caption">Figure 3.3: Using spider fusion to combine sequential Z-rotation gates.</p>
+                </div>
+                
+                <p>This simple example illustrates how ZX calculus can make certain optimizations more apparent than they might be in standard circuit notation.</p>
+            </section>
+            
+            <section id="hadamard-rule">
+                <h3>The Hadamard Rule</h3>
+                
+                <p>The Hadamard gate is a fundamental operation in quantum computing that transforms between the Z and X bases. In ZX calculus, the Hadamard operation is represented by a yellow box or sometimes by a dashed line. The Hadamard rule in ZX calculus describes how Hadamard gates interact with spiders.</p>
+                
+                <p>The basic Hadamard rule states that a Hadamard gate can "pass through" a spider, changing its color in the process. Specifically, a Z-spider with a Hadamard gate on each of its legs (inputs and outputs) is equivalent to an X-spider with the same phase.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/hadamard_box.png" alt="Z-spider with Hadamard gates on all legs being transformed into an X-spider" class="diagram-img">
+                    <p class="caption">Figure 3.4: The Hadamard rule. A Z-spider with Hadamard gates on all legs is equivalent to an X-spider with the same phase.</p>
+                </div>
+                
+                <p>Mathematically, this rule reflects the fact that the Hadamard gate transforms the Z basis (|0âŸ©, |1âŸ©) to the X basis (|+âŸ©, |-âŸ©) and vice versa.</p>
+                
+                <h4>Hadamard on a Single Wire</h4>
+                
+                <p>A special case of the Hadamard rule applies to a Hadamard gate on a single wire. In ZX calculus, a Hadamard gate can be represented as a sequence of three spiders: an X-spider with phase 0, a Z-spider with phase 0, and another X-spider with phase 0, all connected in sequence.</p>
+                
+                <h4>Applications of the Hadamard Rule</h4>
+                
+                <p>The Hadamard rule has several important applications in ZX calculus:</p>
+                
+                <ul>
+                    <li><strong>Changing the basis</strong>: It allows us to switch between the Z and X bases, which can make certain patterns more apparent.</li>
+                    <li><strong>Simplifying diagrams</strong>: By moving Hadamard gates through spiders, we can sometimes simplify the structure of a diagram.</li>
+                    <li><strong>Revealing symmetries</strong>: The Hadamard rule helps reveal the symmetry between the Z and X bases in quantum mechanics.</li>
+                </ul>
+                
+                <p>For example, consider a quantum circuit that applies a Hadamard gate, followed by a Z-rotation, followed by another Hadamard gate. Using the Hadamard rule, we can see that this is equivalent to an X-rotation with the same angle.</p>
+            </section>
+            
+            <section id="pi-commutation">
+                <h3>The Ï€-Commutation Rule</h3>
+                
+                <p>The Ï€-commutation rule describes how spiders with a phase of Ï€ interact with other spiders. Specifically, it states that a Z-spider with phase Ï€ can "pass through" an X-spider, flipping the phase of the X-spider in the process (and vice versa).</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/pi_commutation_rule.png" alt="Z-spider with phase Ï€ passing through an X-spider, flipping its phase" class="diagram-img">
+                    <p class="caption">Figure 3.7: The Ï€-commutation rule. A Z-spider with phase Ï€ can pass through an X-spider, flipping the sign of the X-spider's phase.</p>
+                </div>
+                
+                <p>Mathematically, this rule can be understood in terms of the anti-commutation relation between the Pauli Z and X operators: ZX = -XZ. When a Z-spider with phase Ï€ (equivalent to a Pauli Z gate) passes through an X-spider with phase Î±, it changes the phase to -Î± due to this anti-commutation relation.</p>
+                
+                <h4>Applications of the Ï€-Commutation Rule</h4>
+                
+                <p>The Ï€-commutation rule is particularly useful for:</p>
+                
+                <ul>
+                    <li><strong>Rearranging Pauli gates</strong>: It allows us to move Pauli Z and X gates through each other, potentially simplifying the structure of a quantum circuit.</li>
+                    <li><strong>Phase management</strong>: By strategically moving Ï€ phases through a diagram, we can sometimes consolidate or eliminate phases.</li>
+                    <li><strong>Circuit optimization</strong>: The rule can reveal equivalences between different quantum circuits that might not be obvious in standard notation.</li>
+                </ul>
+            </section>
+            
+            <section id="bialgebra-rule">
+                <h3>The Bialgebra Rule</h3>
+                
+                <p>The bialgebra rule is one of the more complex rules in ZX calculus, but it's also one of the most powerful. It describes how Z-spiders and X-spiders interact when connected in a specific pattern.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/bialgebra_rule.png" alt="Bialgebra rule showing transformation between connected Z and X spiders" class="diagram-img">
+                    <p class="caption">Figure 3.11: The bialgebra rule. A specific configuration of Z and X spiders can be transformed into a simpler pattern.</p>
+                </div>
+                
+                <p>The bialgebra rule is particularly useful for simplifying complex networks of Z and X spiders, and it plays a key role in many optimization techniques in ZX calculus.</p>
+            </section>
+            
+            <p><a href="https://xqxucnly.manus.space/#table-of-contents" class="toc-link">Back to Table of Contents</a></p>
+        </section>
+
+        <!-- Appendix A -->
+        <section id="appendixA" class="chapter-title">
+            <h2>Appendix A: Mathematical Background</h2>
+            
+            <p>This appendix provides a brief overview of the mathematical concepts that underlie ZX calculus. While a deep understanding of these concepts is not necessary to use ZX calculus effectively, familiarity with them can help provide insight into why ZX calculus works the way it does.</p>
+            
+            <section id="linear-algebra">
+                <h3>Linear Algebra for Quantum Computing</h3>
+                
+                <p>Quantum mechanics is fundamentally based on linear algebra. Here, we review some key concepts that are particularly relevant to ZX calculus.</p>
+                
+                <h4>Vector Spaces and Hilbert Spaces</h4>
+                
+                <p>In quantum mechanics, the state of a quantum system is represented as a vector in a complex Hilbert space. For a single qubit, this is a two-dimensional complex vector space, typically denoted as â„‚Â². The standard basis vectors for this space are |0âŸ© and |1âŸ©, which correspond to the computational basis states.</p>
+                
+                <h4>Tensor Products</h4>
+                
+                <p>When we have multiple qubits, their joint state space is the tensor product of the individual qubit spaces. For example, a two-qubit system has a state space of â„‚Â² âŠ— â„‚Â², which is isomorphic to â„‚â´. The standard basis for this space consists of |00âŸ©, |01âŸ©, |10âŸ©, and |11âŸ©.</p>
+                
+                <p>Tensor products play a crucial role in ZX calculus, as they correspond to placing diagrams side by side.</p>
+                
+                <h4>Linear Maps and Matrices</h4>
+                
+                <p>Quantum operations are represented as linear maps between Hilbert spaces. For finite-dimensional spaces, these can be represented as matrices. In ZX calculus, diagrams represent linear maps, and the rules of the calculus ensure that equivalent diagrams represent the same linear map.</p>
+            </section>
+            
+            <section id="category-theory">
+                <h3>Category Theory</h3>
+                
+                <p>ZX calculus has its roots in category theory, a branch of mathematics that deals with abstract structures and the relationships between them.</p>
+                
+                <h4>Monoidal Categories</h4>
+                
+                <p>ZX calculus is based on the framework of monoidal categories, which are categories equipped with a tensor product operation. In the context of quantum mechanics, the objects of the category are Hilbert spaces, and the morphisms are linear maps between them. The tensor product allows us to describe composite systems.</p>
+                
+                <h4>String Diagrams</h4>
+                
+                <p>String diagrams are a graphical notation for morphisms in monoidal categories. In this notation, objects are represented as wires, and morphisms as boxes or nodes. Composition of morphisms is represented by connecting wires, and the tensor product is represented by placing diagrams side by side.</p>
+                
+                <p>ZX diagrams are a specific type of string diagram, specialized for reasoning about qubit quantum mechanics.</p>
+            </section>
+            
+            <section id="quantum-mechanics">
+                <h3>Quantum Mechanics</h3>
+                
+                <p>ZX calculus is designed specifically for reasoning about quantum mechanics, particularly in the context of quantum computing.</p>
+                
+                <h4>Quantum States and Operations</h4>
+                
+                <p>In quantum mechanics, the state of a system is represented as a vector in a Hilbert space, and operations on the system are represented as linear maps. ZX calculus provides a graphical language for describing these states and operations.</p>
+                
+                <h4>Complementary Observables</h4>
+                
+                <p>The Z and X bases in quantum mechanics are complementary, meaning that if a qubit is in a definite state in one basis, it is in a superposition in the other basis. This complementarity is reflected in the symmetry between Z-spiders and X-spiders in ZX calculus.</p>
+                
+                <h4>Measurement</h4>
+                
+                <p>Measurement in quantum mechanics is a process that extracts classical information from a quantum system, causing the system to collapse to a state consistent with the measurement outcome. In ZX calculus, measurement can be represented using spiders with one input and no outputs.</p>
+            </section>
+            
+            <p><a href="https://xqxucnly.manus.space/#table-of-contents" class="toc-link">Back to Table of Contents</a></p>
+        </section>
+
+        <!-- Appendix B -->
+        <section id="appendixB" class="chapter-title">
+            <h2>Appendix B: ZX Calculus Rule Reference</h2>
+            
+            <p>This appendix provides a comprehensive reference of all the rewriting rules in ZX calculus. Each rule is presented with its graphical representation, mathematical interpretation, and examples of its application.</p>
+            
+            <section id="spider-rules">
+                <h3>Spider Rules</h3>
+                
+                <h4>Spider Fusion</h4>
+                
+                <p>When two spiders of the same color are connected by one or more wires, they can be fused into a single spider of that color, with the phase being the sum of the original phases.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/spider_fusion.png" alt="Spider fusion rule" class="diagram-img">
+                    <p class="caption">Spider fusion rule: Two connected spiders of the same color can be fused into a single spider with the sum of their phases.</p>
+                </div>
+                
+                <h4>Identity Spider</h4>
+                
+                <p>A spider with one input, one output, and phase 0 acts as an identity, meaning it can be added or removed from a wire without changing the meaning of the diagram.</p>
+            </section>
+            
+            <section id="color-change-rules">
+                <h3>Color Change Rules</h3>
+                
+                <h4>Hadamard Rule</h4>
+                
+                <p>A Z-spider with Hadamard gates on all its legs is equivalent to an X-spider with the same phase, and vice versa.</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/hadamard_rule.png" alt="Hadamard rule" class="diagram-img">
+                    <p class="caption">Hadamard rule: A Z-spider with Hadamard gates on all legs is equivalent to an X-spider with the same phase.</p>
+                </div>
+                
+                <h4>Color Swap Meta-Rule</h4>
+                
+                <p>Any valid equation in ZX calculus remains valid if all Z-spiders are replaced with X-spiders and vice versa (with Hadamard gates added as necessary to maintain the connectivity).</p>
+                
+                <div class="diagram">
+                    <img src="https://xqxucnly.manus.space/images/color_change_rule.png" alt="Color swap meta-rule" class="diagram-img">
+                    <p class="caption">Color swap meta-rule: Swapping all Z-spiders with X-spiders (and vice versa) preserves the validity of equations.</p>
+                </div>
+            </section>
+            
+            <p><a href="https://xqxucnly.manus.space/#table-of-contents" class="toc-link">Back to Table of Contents</a></p>
+        </section>
+
+        <!-- Appendix C -->
+        <section id="appendixC" class="chapter-title">
+            <h2>Appendix C: Glossary of Terms</h2>
+            
+            <dl>
+                <dt>Bialgebra</dt>
+                <dd>A mathematical structure that is both an algebra and a coalgebra, with certain compatibility conditions. In ZX calculus, the bialgebra rule describes how Z-spiders and X-spiders interact in specific configurations.</dd>
+                
+                <dt>Clifford Fragment</dt>
+                <dd>A subset of ZX calculus that corresponds to the Clifford group in quantum computing. It includes spiders with phases that are multiples of Ï€/2.</dd>
+                
+                <dt>Completeness</dt>
+                <dd>A property of a set of rewriting rules, indicating that any true equation between diagrams can be proven using only those rules. ZX calculus has been proven to be complete for qubit quantum mechanics.</dd>
+                
+                <dt>Hadamard Gate</dt>
+                <dd>A quantum gate that transforms between the Z and X bases. In ZX calculus, it's represented as a yellow box or a dashed line.</dd>
+                
+                <dt>Phase</dt>
+                <dd>A parameter associated with spiders in ZX calculus, represented as an angle. Phases determine how spiders interact with quantum information.</dd>
+                
+                <dt>Spider</dt>
+                <dd>A fundamental building block in ZX calculus, represented as a colored circle with a phase. Spiders can have any number of inputs and outputs.</dd>
+                
+                <dt>Spider Fusion</dt>
+                <dd>A rule in ZX calculus stating that two connected spiders of the same color can be merged into a single spider with the sum of their phases.</dd>
+                
+                <dt>X-spider</dt>
+                <dd>A spider that operates in the X basis, typically represented as a red circle in ZX diagrams.</dd>
+                
+                <dt>Z-spider</dt>
+                <dd>A spider that operates in the Z basis, typically represented as a green circle in ZX diagrams.</dd>
+                
+                <dt>ZX Diagram</dt>
+                <dd>A graphical representation of a quantum process using Z-spiders, X-spiders, and wires.</dd>
+                
+                <dt>ZXH-calculus</dt>
+                <dd>An extension of ZX calculus that incorporates the H-box as a primitive, allowing for more compact representations of certain quantum processes.</dd>
+            </dl>
+            
+            <p><a href="https://xqxucnly.manus.space/#table-of-contents" class="toc-link">Back to Table of Contents</a></p>
+        </section>
+
+        <!-- Add a back to top button -->
+        <a href="https://xqxucnly.manus.space/#" class="back-to-top" style="display: flex;">â†‘</a>
+
+        <!-- Footer -->
+        <footer>
+            <p>Â© 2025 ZX Calculus: A Comprehensive Guide</p>
+        </footer>
+    </main>
+
+    
+<footer-btn><template shadowmode="open"><div class="wrapper">
+                <div class="page-footer">
+                    <div class="tooltip-dialog">Not an official Manus website nor endorsed by Manus. Content may contain inaccuracies; double-check before use. Do not submit passwords, credit cards, or personal information.</div>
+                    <div class="footer-close-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g clip-path="url(#clip0_5850_97234)">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.733398 8.00104C0.733398 3.98777 3.9868 0.734375 8.00006 0.734375C12.0133 0.734375 15.2667 3.98777 15.2667 8.00104C15.2667 12.0143 12.0133 15.2677 8.00006 15.2677C3.9868 15.2677 0.733398 12.0143 0.733398 8.00104Z" fill="white"></path>
+                        <path d="M1.2334 8.00104C1.2334 4.26391 4.26294 1.23438 8.00006 1.23438C11.7372 1.23438 14.7667 4.26391 14.7667 8.00104C14.7667 11.7382 11.7372 14.7677 8.00006 14.7677C4.26294 14.7677 1.2334 11.7382 1.2334 8.00104Z" stroke="black" stroke-opacity="0.14" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M5.57576 5.57613C5.81007 5.34181 6.18997 5.34181 6.42429 5.57613L8.00002 7.15186L9.57576 5.57613C9.81007 5.34181 10.19 5.34181 10.4243 5.57613C10.6586 5.81044 10.6586 6.19034 10.4243 6.42465L8.84855 8.00039L10.4243 9.57613C10.6586 9.81044 10.6586 10.1903 10.4243 10.4247C10.19 10.659 9.81007 10.659 9.57576 10.4247L8.00002 8.84892L6.42429 10.4247C6.18997 10.659 5.81007 10.659 5.57576 10.4247C5.34145 10.1903 5.34145 9.81044 5.57576 9.57613L7.1515 8.00039L5.57576 6.42465C5.34145 6.19034 5.34145 5.81044 5.57576 5.57613Z" fill="#858481"></path>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_5850_97234">
+                        <rect width="16" height="16" fill="white"></rect>
+                        </clipPath>
+                        </defs>
+                        </svg>
+                    </div>
+                    <div class="footer-bg">
+                        <div class="tooltip-box">
+                            <div class="tooltip-desc">This user-generated website was created with AI. Use with caution.</div>
+                            <span class="tooltip-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                                    <g clip-path="url(#clip0_4345_83044)">
+                                        <path d="M6 8V6M6 4H6.005M11 6C11 8.76142 8.76142 11 6 11C3.23858 11 1 8.76142 1 6C1 3.23858 3.23858 1 6 1C8.76142 1 11 3.23858 11 6Z" stroke="#858481" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_4345_83044">
+                                            <rect width="12" height="12" fill="white"></rect>
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                    <a href="https://manus.im/invitation?from=space" target="_blank" class="footer-button">
+                        <span class="footer-logo">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                <path d="M13.2251 16.9379C14.4717 16.147 15.3336 11.9052 15.144 10.6421C15.144 10.6421 14.9464 9.96396 14.4643 9.96394C13.9821 9.96391 13.7815 10.4719 13.7815 10.4719C13.7815 10.4719 13.6546 10.9409 13.4555 11.5313C13.1474 12.4447 13.0178 13.5718 12.2143 13.8571C11.4107 14.1425 10.6071 13.8725 10.6071 13.8725C11.1535 15.9448 11.9785 17.7288 13.2251 16.9379Z" fill="white"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.04826 9.17689C6.59029 9.22824 6.34906 9.40136 6.26768 9.48274C5.94625 9.80417 5.78554 10.1256 5.78554 10.2863C5.78554 10.447 5.40745 9.53393 5.32437 9.44837C5.07703 9.19366 5.083 8.78667 5.33771 8.53933C5.69527 8.19212 6.28003 7.96925 6.90502 7.89918C7.55323 7.82651 8.3219 7.9075 9.09971 8.25205C10.0075 8.65415 10.4937 9.50199 10.6773 10.2768C10.7705 10.6701 10.7943 11.0743 10.7466 11.4426C10.7002 11.8002 10.5781 12.1826 10.3242 12.4736C9.79525 13.0799 9.01508 13.0116 8.593 12.9221C8.35518 12.8716 8.14542 12.7975 7.99786 12.738C7.92303 12.7079 7.86158 12.6804 7.81747 12.6597C7.79535 12.6493 7.77743 12.6406 7.7642 12.6341C7.75757 12.6308 7.75211 12.628 7.74786 12.6259L7.7424 12.6231L7.74037 12.622L7.73915 12.6214C7.73915 12.6214 7.7388 12.6212 8.03568 12.051L7.7388 12.6212C7.42389 12.4573 7.30152 12.069 7.46548 11.7541C7.62912 11.4398 8.01612 11.3173 8.3307 11.4798M8.3307 11.4798L8.33145 11.4802L8.3307 11.4798ZM8.3307 11.4798L8.33531 11.4822C8.34052 11.4847 8.3498 11.4893 8.36271 11.4953C8.38864 11.5075 8.42852 11.5254 8.4788 11.5457C8.58146 11.5871 8.71705 11.6341 8.85982 11.6644C9.19892 11.7363 9.32081 11.668 9.3554 11.6284C9.38325 11.5965 9.44396 11.4899 9.47154 11.2773C9.49771 11.0755 9.48663 10.8281 9.42625 10.5733C9.30267 10.0519 9.00685 9.61712 8.57899 9.42759C8.02117 9.1805 7.48301 9.12815 7.04826 9.17689" fill="white"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M2.79812 2.53348C2.64176 2.85224 2.7734 3.2374 3.09216 3.39376C3.55 3.61834 3.94731 3.83979 4.34068 4.28331C4.57627 4.54892 4.98258 4.57326 5.2482 4.33767C5.51381 4.10208 5.53815 3.69577 5.30256 3.43016C4.742 2.79815 4.16499 2.48794 3.65839 2.23944C3.33963 2.08308 2.95448 2.21473 2.79812 2.53348Z" fill="white"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M6.27275 0.662519C5.92831 0.748629 5.71889 1.09766 5.805 1.4421C5.86516 1.68274 5.92127 1.8885 5.97263 2.07686C6.07093 2.43738 6.15185 2.73415 6.21054 3.08969C6.26837 3.43999 6.59923 3.67708 6.94952 3.61926C7.29982 3.56143 7.53692 3.23058 7.47909 2.88028C7.40972 2.46006 7.3017 2.06246 7.19328 1.66338C7.14526 1.48666 7.09717 1.30966 7.05233 1.13027C6.96622 0.785827 6.61719 0.57641 6.27275 0.662519Z" fill="white"></path>
+                                <path d="M8.99979 3.21456C9.16051 2.57171 9.32122 2.08956 9.61377 1.60742" stroke="white" stroke-width="1.28571" stroke-miterlimit="10" stroke-linecap="round"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3613 6.26832C12.6366 6.52316 12.6368 6.52221 12.6368 6.52221L12.637 6.52126L12.6373 6.51931L12.6381 6.51527L12.6396 6.50658C12.6407 6.50054 12.6418 6.49395 12.6429 6.48687C12.6452 6.47271 12.6476 6.45641 12.65 6.43816C12.6548 6.40191 12.6596 6.35662 12.6628 6.30419C12.6689 6.20315 12.6702 6.05635 12.6443 5.88608C12.5954 5.56354 12.4075 4.95215 11.7455 4.59774L11.6146 4.52762L11.4715 4.48801L11.1424 5.7144C11.4358 5.8715 11.3613 6.26832 11.3613 6.26832ZM11.1573 7.07742L11.3613 6.26832L12.6366 6.52316L12.6296 6.56049L12.4237 7.37732C12.3841 7.57807 12.3789 7.69285 12.381 7.75349C12.3828 7.80284 12.3892 7.81904 12.3924 7.82698L12.3927 7.8279C12.4008 7.84841 12.4216 7.89289 12.4977 8.00832C12.5287 8.05537 12.561 8.10252 12.6021 8.1626C12.613 8.1785 12.6245 8.19531 12.6367 8.21327C12.6919 8.29416 12.7565 8.38953 12.825 8.49621C13.2527 9.16281 13.2947 9.80259 13.2925 10.2126C13.2924 10.2186 13.2924 10.2246 13.2923 10.2305C13.3435 10.2481 13.3978 10.2658 13.4555 10.2841C13.4745 10.2902 13.4997 10.2982 13.5262 10.3065C13.5634 10.3183 13.6031 10.3308 13.6314 10.3399C13.6872 10.3577 13.7584 10.381 13.8272 10.4067C13.8751 10.4245 13.9211 10.4423 13.9644 10.4603C14.0059 10.4775 14.0566 10.4995 14.1099 10.5264C14.1513 10.5473 14.2186 10.5831 14.2948 10.6359L14.9647 10.9242L14.955 11.7823C14.9493 12.2868 14.7463 12.8187 14.6023 13.148C14.4436 13.5111 14.2339 13.8983 14.0408 14.1556C13.7712 14.515 13.4657 14.8945 13.0981 15.1372C12.8815 15.2802 12.6198 15.394 12.3111 15.4313C12.0361 15.4645 11.7981 15.4277 11.6232 15.3851L11.5717 15.3745C11.5199 15.3639 11.4456 15.3486 11.3553 15.3298C11.1748 15.2922 10.9287 15.2404 10.6678 15.1837C10.1867 15.0793 9.53471 14.9331 9.22715 14.8311L9.20492 14.8237L9.18296 14.8155C9.04655 14.7649 8.81591 14.7081 8.43387 14.621C8.41077 14.6157 8.38722 14.6103 8.36328 14.6049C8.03371 14.5299 7.6281 14.4376 7.24401 14.3212C6.8462 14.2008 6.35418 14.0216 5.9364 13.7296C5.4979 13.4232 4.99936 12.8829 4.9716 12.0723C4.96744 11.951 4.97023 11.8337 4.97774 11.7224C4.78027 11.5084 4.61454 11.2286 4.53078 10.8703C4.44918 10.5212 4.49431 10.2118 4.55156 9.99459C4.60897 9.7768 4.69617 9.58643 4.76904 9.44413C4.79364 9.3961 4.81915 9.34874 4.8446 9.30298C4.60356 9.22692 4.3313 9.13294 4.06631 9.01999C3.72023 8.87246 3.22918 8.62908 2.86258 8.2362C2.66514 8.0246 2.4584 7.72132 2.37481 7.3248C2.28733 6.90985 2.36002 6.51171 2.53036 6.1708C2.94502 5.34093 3.73706 5.04773 4.44152 5.02237C5.07762 4.99946 5.75449 5.17745 6.36097 5.39016C6.91355 5.58397 7.70443 5.94444 8.3763 6.25842C8.5976 5.89554 8.88932 5.48549 9.16548 5.15432L9.22034 5.08854L9.28382 5.03075C9.75896 4.59828 10.2927 4.45288 10.6994 4.42169C10.8988 4.4064 11.0705 4.41781 11.1989 4.43448C11.2638 4.44291 11.3198 4.45295 11.3652 4.46245C11.388 4.46721 11.4083 4.47188 11.426 4.4762C11.4349 4.47837 11.4431 4.48045 11.4507 4.48243L11.4616 4.48531L11.4666 4.48668L11.4691 4.48735L11.4703 4.48768C11.4703 4.48768 11.4715 4.48801 11.1424 5.7144C11.1424 5.7144 10.6292 5.57232 10.188 5.96175C10.1836 5.96567 10.1792 5.96965 10.1747 5.97368C10.161 5.99009 10.1473 6.0067 10.1336 6.02351C10.1139 6.04768 10.0941 6.07224 10.0743 6.09711C10.0685 6.10441 10.0627 6.11174 10.0569 6.1191C9.61666 6.67768 9.64277 6.91103 8.83914 7.87543C8.83914 7.87543 8.4205 7.68157 8.1701 7.56386C7.9983 7.48311 7.81669 7.39774 7.63164 7.31169C7.03464 7.03411 6.40173 6.74946 5.94628 6.58972C4.82494 6.19643 3.99821 6.14651 3.69645 6.75042C3.29839 7.54707 4.9148 8.00866 5.72705 8.24061C5.8981 8.28945 6.03349 8.32811 6.10689 8.35758C6.52348 8.52479 6.55255 8.86031 6.42848 9.16103C6.35609 9.33651 6.31482 9.43541 6.10706 9.64317C5.78563 9.9646 5.73292 10.3452 5.7943 10.6078C5.82503 10.7392 5.88582 10.8348 5.95809 10.9044C6.15197 11.0909 6.42842 11.0897 6.42842 11.0897C6.42842 11.0897 6.25016 11.5453 6.26759 12.0541C6.27143 12.1661 6.30155 12.268 6.35346 12.3612C6.66163 12.9145 7.73774 13.1596 8.64189 13.3655C9.02162 13.452 9.37102 13.5316 9.62046 13.6242C10.0676 13.7726 11.8925 14.1433 11.8925 14.1433C12.2292 14.2317 12.438 14.1247 12.9919 13.3864C13.2219 13.0797 13.653 12.2123 13.6583 11.7435C13.5884 11.7134 13.5835 11.7029 13.5786 11.6924C13.5718 11.6779 13.565 11.6633 13.3882 11.5974C13.329 11.5754 13.2499 11.5504 13.1593 11.5218C12.7822 11.4029 12.2071 11.2215 12.0534 10.929C11.9788 10.787 11.9846 10.5964 11.9915 10.3736C12.0022 10.0271 12.0153 9.60261 11.732 9.16115C11.6624 9.05276 11.5957 8.95523 11.5333 8.864C11.1781 8.34469 10.9626 8.0296 11.1573 7.07742ZM5.21736 8.64574C5.21818 8.64341 5.21787 8.64394 5.21684 8.64717L5.21736 8.64574ZM13.2859 10.6214C13.2859 10.6214 13.2859 10.6164 13.2849 10.6077C13.2852 10.6173 13.2859 10.6214 13.2859 10.6214Z" fill="white"></path>
+                            </svg>
+                        </span>
+                        <div class="title">Made with Manus</div>
+                        <div class="create-title">Create my website</div>
+                    </a>
+                </div>
+
+                <div class="page-footer-mobile">
+                    <div class="footer-button">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                            <path d="M13.2251 16.9379C14.4717 16.147 15.3336 11.9052 15.144 10.6421C15.144 10.6421 14.9464 9.96396 14.4643 9.96394C13.9821 9.96391 13.7815 10.4719 13.7815 10.4719C13.7815 10.4719 13.6546 10.9409 13.4555 11.5313C13.1474 12.4447 13.0178 13.5718 12.2143 13.8571C11.4107 14.1425 10.6071 13.8725 10.6071 13.8725C11.1535 15.9448 11.9785 17.7288 13.2251 16.9379Z" fill="white"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M7.04826 9.17689C6.59029 9.22824 6.34906 9.40136 6.26768 9.48274C5.94625 9.80417 5.78554 10.1256 5.78554 10.2863C5.78554 10.447 5.40745 9.53393 5.32437 9.44837C5.07703 9.19366 5.083 8.78667 5.33771 8.53933C5.69527 8.19212 6.28003 7.96925 6.90502 7.89918C7.55323 7.82651 8.3219 7.9075 9.09971 8.25205C10.0075 8.65415 10.4937 9.50199 10.6773 10.2768C10.7705 10.6701 10.7943 11.0743 10.7466 11.4426C10.7002 11.8002 10.5781 12.1826 10.3242 12.4736C9.79525 13.0799 9.01508 13.0116 8.593 12.9221C8.35518 12.8716 8.14542 12.7975 7.99786 12.738C7.92303 12.7079 7.86158 12.6804 7.81747 12.6597C7.79535 12.6493 7.77743 12.6406 7.7642 12.6341C7.75757 12.6308 7.75211 12.628 7.74786 12.6259L7.7424 12.6231L7.74037 12.622L7.73915 12.6214C7.73915 12.6214 7.7388 12.6212 8.03568 12.051L7.7388 12.6212C7.42389 12.4573 7.30152 12.069 7.46548 11.7541C7.62912 11.4398 8.01612 11.3173 8.3307 11.4798M8.3307 11.4798L8.33145 11.4802L8.3307 11.4798ZM8.3307 11.4798L8.33531 11.4822C8.34052 11.4847 8.3498 11.4893 8.36271 11.4953C8.38864 11.5075 8.42852 11.5254 8.4788 11.5457C8.58146 11.5871 8.71705 11.6341 8.85982 11.6644C9.19892 11.7363 9.32081 11.668 9.3554 11.6284C9.38325 11.5965 9.44396 11.4899 9.47154 11.2773C9.49771 11.0755 9.48663 10.8281 9.42625 10.5733C9.30267 10.0519 9.00685 9.61712 8.57899 9.42759C8.02117 9.1805 7.48301 9.12815 7.04826 9.17689" fill="white"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M2.79812 2.53348C2.64176 2.85224 2.7734 3.2374 3.09216 3.39376C3.55 3.61834 3.94731 3.83979 4.34068 4.28331C4.57627 4.54892 4.98258 4.57326 5.2482 4.33767C5.51381 4.10208 5.53815 3.69577 5.30256 3.43016C4.742 2.79815 4.16499 2.48794 3.65839 2.23944C3.33963 2.08308 2.95448 2.21473 2.79812 2.53348Z" fill="white"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M6.27275 0.662519C5.92831 0.748629 5.71889 1.09766 5.805 1.4421C5.86516 1.68274 5.92127 1.8885 5.97263 2.07686C6.07093 2.43738 6.15185 2.73415 6.21054 3.08969C6.26837 3.43999 6.59923 3.67708 6.94952 3.61926C7.29982 3.56143 7.53692 3.23058 7.47909 2.88028C7.40972 2.46006 7.3017 2.06246 7.19328 1.66338C7.14526 1.48666 7.09717 1.30966 7.05233 1.13027C6.96622 0.785827 6.61719 0.57641 6.27275 0.662519Z" fill="white"></path>
+                            <path d="M8.99979 3.21456C9.16051 2.57171 9.32122 2.08956 9.61377 1.60742" stroke="white" stroke-width="1.28571" stroke-miterlimit="10" stroke-linecap="round"></path>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3613 6.26832C12.6366 6.52316 12.6368 6.52221 12.6368 6.52221L12.637 6.52126L12.6373 6.51931L12.6381 6.51527L12.6396 6.50658C12.6407 6.50054 12.6418 6.49395 12.6429 6.48687C12.6452 6.47271 12.6476 6.45641 12.65 6.43816C12.6548 6.40191 12.6596 6.35662 12.6628 6.30419C12.6689 6.20315 12.6702 6.05635 12.6443 5.88608C12.5954 5.56354 12.4075 4.95215 11.7455 4.59774L11.6146 4.52762L11.4715 4.48801L11.1424 5.7144C11.4358 5.8715 11.3613 6.26832 11.3613 6.26832ZM11.1573 7.07742L11.3613 6.26832L12.6366 6.52316L12.6296 6.56049L12.4237 7.37732C12.3841 7.57807 12.3789 7.69285 12.381 7.75349C12.3828 7.80284 12.3892 7.81904 12.3924 7.82698L12.3927 7.8279C12.4008 7.84841 12.4216 7.89289 12.4977 8.00832C12.5287 8.05537 12.561 8.10252 12.6021 8.1626C12.613 8.1785 12.6245 8.19531 12.6367 8.21327C12.6919 8.29416 12.7565 8.38953 12.825 8.49621C13.2527 9.16281 13.2947 9.80259 13.2925 10.2126C13.2924 10.2186 13.2924 10.2246 13.2923 10.2305C13.3435 10.2481 13.3978 10.2658 13.4555 10.2841C13.4745 10.2902 13.4997 10.2982 13.5262 10.3065C13.5634 10.3183 13.6031 10.3308 13.6314 10.3399C13.6872 10.3577 13.7584 10.381 13.8272 10.4067C13.8751 10.4245 13.9211 10.4423 13.9644 10.4603C14.0059 10.4775 14.0566 10.4995 14.1099 10.5264C14.1513 10.5473 14.2186 10.5831 14.2948 10.6359L14.9647 10.9242L14.955 11.7823C14.9493 12.2868 14.7463 12.8187 14.6023 13.148C14.4436 13.5111 14.2339 13.8983 14.0408 14.1556C13.7712 14.515 13.4657 14.8945 13.0981 15.1372C12.8815 15.2802 12.6198 15.394 12.3111 15.4313C12.0361 15.4645 11.7981 15.4277 11.6232 15.3851L11.5717 15.3745C11.5199 15.3639 11.4456 15.3486 11.3553 15.3298C11.1748 15.2922 10.9287 15.2404 10.6678 15.1837C10.1867 15.0793 9.53471 14.9331 9.22715 14.8311L9.20492 14.8237L9.18296 14.8155C9.04655 14.7649 8.81591 14.7081 8.43387 14.621C8.41077 14.6157 8.38722 14.6103 8.36328 14.6049C8.03371 14.5299 7.6281 14.4376 7.24401 14.3212C6.8462 14.2008 6.35418 14.0216 5.9364 13.7296C5.4979 13.4232 4.99936 12.8829 4.9716 12.0723C4.96744 11.951 4.97023 11.8337 4.97774 11.7224C4.78027 11.5084 4.61454 11.2286 4.53078 10.8703C4.44918 10.5212 4.49431 10.2118 4.55156 9.99459C4.60897 9.7768 4.69617 9.58643 4.76904 9.44413C4.79364 9.3961 4.81915 9.34874 4.8446 9.30298C4.60356 9.22692 4.3313 9.13294 4.06631 9.01999C3.72023 8.87246 3.22918 8.62908 2.86258 8.2362C2.66514 8.0246 2.4584 7.72132 2.37481 7.3248C2.28733 6.90985 2.36002 6.51171 2.53036 6.1708C2.94502 5.34093 3.73706 5.04773 4.44152 5.02237C5.07762 4.99946 5.75449 5.17745 6.36097 5.39016C6.91355 5.58397 7.70443 5.94444 8.3763 6.25842C8.5976 5.89554 8.88932 5.48549 9.16548 5.15432L9.22034 5.08854L9.28382 5.03075C9.75896 4.59828 10.2927 4.45288 10.6994 4.42169C10.8988 4.4064 11.0705 4.41781 11.1989 4.43448C11.2638 4.44291 11.3198 4.45295 11.3652 4.46245C11.388 4.46721 11.4083 4.47188 11.426 4.4762C11.4349 4.47837 11.4431 4.48045 11.4507 4.48243L11.4616 4.48531L11.4666 4.48668L11.4691 4.48735L11.4703 4.48768C11.4703 4.48768 11.4715 4.48801 11.1424 5.7144C11.1424 5.7144 10.6292 5.57232 10.188 5.96175C10.1836 5.96567 10.1792 5.96965 10.1747 5.97368C10.161 5.99009 10.1473 6.0067 10.1336 6.02351C10.1139 6.04768 10.0941 6.07224 10.0743 6.09711C10.0685 6.10441 10.0627 6.11174 10.0569 6.1191C9.61666 6.67768 9.64277 6.91103 8.83914 7.87543C8.83914 7.87543 8.4205 7.68157 8.1701 7.56386C7.9983 7.48311 7.81669 7.39774 7.63164 7.31169C7.03464 7.03411 6.40173 6.74946 5.94628 6.58972C4.82494 6.19643 3.99821 6.14651 3.69645 6.75042C3.29839 7.54707 4.9148 8.00866 5.72705 8.24061C5.8981 8.28945 6.03349 8.32811 6.10689 8.35758C6.52348 8.52479 6.55255 8.86031 6.42848 9.16103C6.35609 9.33651 6.31482 9.43541 6.10706 9.64317C5.78563 9.9646 5.73292 10.3452 5.7943 10.6078C5.82503 10.7392 5.88582 10.8348 5.95809 10.9044C6.15197 11.0909 6.42842 11.0897 6.42842 11.0897C6.42842 11.0897 6.25016 11.5453 6.26759 12.0541C6.27143 12.1661 6.30155 12.268 6.35346 12.3612C6.66163 12.9145 7.73774 13.1596 8.64189 13.3655C9.02162 13.452 9.37102 13.5316 9.62046 13.6242C10.0676 13.7726 11.8925 14.1433 11.8925 14.1433C12.2292 14.2317 12.438 14.1247 12.9919 13.3864C13.2219 13.0797 13.653 12.2123 13.6583 11.7435C13.5884 11.7134 13.5835 11.7029 13.5786 11.6924C13.5718 11.6779 13.565 11.6633 13.3882 11.5974C13.329 11.5754 13.2499 11.5504 13.1593 11.5218C12.7822 11.4029 12.2071 11.2215 12.0534 10.929C11.9788 10.787 11.9846 10.5964 11.9915 10.3736C12.0022 10.0271 12.0153 9.60261 11.732 9.16115C11.6624 9.05276 11.5957 8.95523 11.5333 8.864C11.1781 8.34469 10.9626 8.0296 11.1573 7.07742ZM5.21736 8.64574C5.21818 8.64341 5.21787 8.64394 5.21684 8.64717L5.21736 8.64574ZM13.2859 10.6214C13.2859 10.6214 13.2859 10.6164 13.2849 10.6077C13.2852 10.6173 13.2859 10.6214 13.2859 10.6214Z" fill="white"></path>
+                        </svg>
+                        <div class="title">Made with Manus</div>
+                        <div class="create-title">Create my website</div>
+                    </div>
+                    <div class="footer-dialog">
+                        <div class="dialog-box">
+                            <div class="dialog-header">
+                                <div class="dialog-header-title">Made with Manus</div>
+                                <span class="dialog-header-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.2729 3.27192C3.5365 3.00832 3.96389 3.00832 4.22749 3.27192L9.0002 8.04462L13.7729 3.27192C14.0365 3.00832 14.4639 3.00832 14.7275 3.27192C14.9911 3.53553 14.9911 3.96291 14.7275 4.22652L9.95479 8.99922L14.7275 13.7719C14.9911 14.0355 14.9911 14.4629 14.7275 14.7265C14.4639 14.9901 14.0365 14.9901 13.7729 14.7265L9.0002 9.95381L4.22749 14.7265C3.96389 14.9901 3.5365 14.9901 3.2729 14.7265C3.00929 14.4629 3.00929 14.0355 3.2729 13.7719L8.0456 8.99922L3.2729 4.22652C3.00929 3.96291 3.00929 3.53553 3.2729 3.27192Z" fill="#858481"></path>
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="dialog-body">
+                                <div>This user-generated website was created with AI. Use with caution.</div>
+                                <div>
+                                    Not an official Manus website nor endorsed by Manus. Content may contain inaccuracies; double-check before use. Do not submit
+                                    passwords, credit cards, or personal information.
+                                </div>
+                            </div>
+                            <div class="dialog-footer">
+                                <div class="dialog-footer-button-left">Cancel</div>
+                                <div class="dialog-footer-button-right">Create my website</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div></template></footer-btn>
+
+
+		
+
+</body></html>
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/bialgebra_rule.png
+
+‰PNG
+
+   IHDR  ¼  ¼   ‚Øû  :IDATxœíİ[v²è†Q¨ñ7Éş· }¢.HŒÔısŞì5v,CT×ò0NÓ4  <òß§¯  PÑ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  ‘Ÿ¾íÇ1ÿ?OÓtÜ5)ŸcP2Ñ°³•ÓŞ×K?Şğ©qå—}ñÇÛ=V %=Îîâ÷¶%"§ïÿmæ/u>V»ÿ>çˆhæXE4¼äÀVXª¼k…•ÿÖÏ?Tz¬ Ê$ñÖVXªªŞÙ
++ÿõŸ¨âXN4ló}
+üH+,†¡àÓá|¬
+¹rs={¬ ª ReåÂ¥òÒ¡¨\¸$ ^!+7.•‘ÅæÂ%é ğÑpO¹péséPE.\’ [‰†›Æq¬).Ş}.Ç±Ò›Ñ¨ b¢aE}†¥wª0,9 „DÃµŠKê0,9 <ä«şhª†aøÚöm›´TÃ0L¿ù C&ßZXIÜ²÷ª¢•Ä-V wˆ†ahoÀ°j§UEc†UV «¬'ú(†aŸUEÅ0XU ÜĞ{4ôR³×º¡“b˜é€¥®£¡¯b˜=Û]ÃL7 \é7z,†Ùönè°fºàR§ÑĞo1Ì¶tC·Å0Ó g=FCïÅ0Ëº¡ób˜é€YwÑ ~=êÅp¦ †£ xN_Ñ`Ìpíö°Á˜áŠa@GÑ Ö­uƒbX¥€ÎõŠá¿İ îĞ@Ïz‰ àE]Dƒ1Ãc?Ãc†‡€nµŠ!õ¥RºèSûÑ  ì¢ñh0fØà43ä€5 À^Zc†Œ¶3l zÓr4  ;j6Œ60fx–aĞ•f£ ØW›Ñ`Ì°1Ãk€~´ ÀîD i0ì&6°›ØƒĞ‰£ 8‚h  "­EƒİÄvû±¡ zĞZ4   @¤©h°›ØÀnbo6@óšŠ à8¢ ˆˆ  " €È¿O_€mzÙì4uıÂeÇªíDƒ·Nlà­Ç˜ß@á1‹¥•ÓŞ–Ç«å7|3[ùe_üñvÕûµ ¥ù=½ø”fñãçKnæŒøû½v9ËoïX}h ØÙn­pÇÏ%×~FÜ«î8_ríÇª¢`ïh…¥:ëá­°¤^' ^õ}úìËªşÖC±§Ãï«÷ÑëpUÅ«‰€ç‘W¾†¡ÈÓa	¹pe¾2«b‰†Nmıw&¸Rb.\*)
+Ì…KÒ!Wh4øâêõÄ­×ãT¨‡õÒsáÒ§Ó¡ğ\¸TT:r5–
+VÜ-*QåGÂü¤Ã›OBã8V÷PsN‡OØ%(4økNP5Ç™¦iÇO= ×4`Xõõ¾ç¯VM%ŒgŠ|$)4 ŠRå€aé-#‡KF«|aÀÃÙ×£Ù6Šál2ÆşK4 5™Ÿö½íq|Ş†4U³¯Ÿ_m?ß›£/±Ó°ÿ±º£äİÄ`=pK›¹p¶ëª¢É\8³ª83i XÑx1œí±ªh»Î¬*†–¢aš¦áôé+Q‹¯ÍîDb,x¨Ø’7l(z)†ÙkİĞI1Ìî†ÂwCKÑ °‹¾Šaöl7tU³Îç^Ó 5iòÑª¨çU=ÃìkóÎ¾Ãb˜M¿¾Á¤¨ÏAŠ~‹a¶eŞĞm1Ì˜7”¿›DÀ¬÷b˜eİĞy1ÌúÜSˆ ÅpáQ7(†³»¡©hğŠ¼boŞ:ñfoş”'8T»‰¡±h x‚1ÃµÛÃc†+½DĞ5Å°n­Ãª®º¡µh°¡ØÀ†b?vñú†B1Üó·Ã/vC-»‰¡½h  "€N3<ö3l0fx¨“%EƒÑ`C±Åì&>èé…bH})†ÔsİPÑnbh2 €#ˆ ;Æœ†:—¡ù%E›Ñ`C±Åkì&>Î§<Q¯ºvC«Ñ p‹1ÃÆÛµ=lh660lx–1C!ü¨W]·Şf£èMøõŒÆ)c†g…Ã†-GƒaÃ†Û3 ½ù÷é+ l Sn™¦iÇqï"c†Œ^3Ü+¼G·<i61lØÂ˜èPãÑ  ì¥ıh0lH†išÆeºÿvØMìáÎË!+İM=DÃ §ï›¯nxH1 İê" €×õ†÷œş<u6l¸Ã˜¡p·6vØMìguCQïnbè'İpËiå¶«V) sEÃ –ÖŠa¦®(€¾¢hŞrCa7±İÄŞ¦å­±æg İEƒaÃ¯Ûc†™aÃ™1ÀĞa4ºaö¨fºaP ?zŒ†A7dÅ0ë¼CîÊ|Jí»‰¡Ûhzî†-Å0ë¶À¥®¿årşZ¼Ã_!µ)M¿2ÏçcuôùsSš¼áÊ(€K÷¾¸³;wÃ2–~ºñïÃÚ³Åp¶o7,ayáãşøÓC~×Ş:òÖ‰Ãœ¯j`ézÒ0ÛgŞp>Ù¿x9·
+ãõK~¹†æ¿w¯Ìa—¬ V‰†a8wÃ°ıÄ¼×ıó%?ıß:Ã~gÁó±Úzq{Ñï8_òÓÿ­ïÁ†b X#¾ı¾Ü:9%¿¡–«‡=WÎÇ*¹Ü7´ÂÒsõ`ÀĞ˜ß'P†aDÃWw^ğ6Wõp÷Úw}¸ª¸ór„·¹ª‡û×¶û3À¡DÃµ›«ŠráÊ|eV¯Ø®+‰[n­*JÈ…+ó•Y½bV !Ñ°âzUQ`.\Z^É#W®VæÂ¥å•4`hÛw×
+¾ÿfë:Ç'ÑÒ3ÑpÓó¯üˆ‹txÿMóéWG~ÄŸthânÌ-^Ó@9Æ±…Ï87UùÍx_Ãğ‰›æ>÷iwßéĞÄİ˜ª»#;Ã¦í#œb‰†5V}½ïÎ+0¬:k­th1¥iàYŠh¸Vå€aé-#‡KF ¡~¿°jU#Åpöuà“­6ŠálòÄàÑğmÇÖŠaöõó«íg¾À–Ša6û+>ÅÖ‰Ò´ñíÖÃĞŞ€áÊ®«Š&sáÌªà“†Ö‹álUEÛÅpfU°ª÷hè¥f¯uC'Å0ÓU»ÜMLÓ´òó¬újçE/o•?¶t½øX1|0S¾œ½ª>˜)“=À_ıNúš1\Ú>oèjÆpÉ¼àR§ÑĞo1Ì¶tC·Å0ÓÕñ¾	JVû†¢Çhè½fY7t^3İ 0ë.Ã¯Gİ ÎtÀĞa4 [İMxÅŞ@±·qõYíó¾¢Á˜áÚíaƒ1ÃÃ€¢A1¬[ëÅ°J7 ë%Ã=»A1Ü¡Jvç}6ØPìg¹›˜Õ»¡è% €uÆıŒ2l ºÕ~4(†Ô—bHé†=üL'Šl(öpk71«tCÑ~4  »h<Œ68}òÛ¡ªcØ t¨ëo¹„ê4Y*¯ODø}Ó4y"‘úFO$^p71›ou}›nË“xtØÎ°èMËÑ ô#|®æåx9ä³’1Ã¬¢Ã¬Ùh0fØÀ˜áY†%ğ' vİ†›€U†6l—jÔf43l`ÌğÃ†Ï
+_	ÅªëÚŒ€;60lØ¢í1Ã  €PƒÑ`7±İÄl(>å•İ„aCê4LÓäöxzÌPÑ†¢Áh Hè†ÇNßç3İğPó‹‰™h  "­EƒİÄvû±¡x¿]Ş7aØpÏéÏá5l¸ãõ1C-ŠÖ¢`İ°î´rÔ«:YLÌDĞ;İpm­fºáJWÅ04vØMìÍ†â|¦í©bCÑT4 <Ç°á×í1ÃÌ°á¬·1Ã  fºaÃL7]Ã €ê·›è½²b˜uŞCùŠŸ¾À>³y³iš:}uÔ–b˜ÍÇªÃ[dŸ3†™IÀ=Î¶Ã¬ÃyCÏÅ0´>9x·NÃ(Şà=ï›è«-†YWİğ†b(|CÑN4 ì¨—nx­ftCç3†™×4 ¬û~}Ã0´9Å<Ã~gÁó±jò¤:'‘bL€Š¼ÿ3¦ijsäpúùÕö3_`{#‡qØÿXİWò†B4 <ĞZ7ì±’¸¥±n°’¸b=ğX#«Š]W·´±ª°’X%:µõ©€û÷ñï›øWÚG®œU¥0Ìá5ciÕRh4”¹ËÄ·ŞÒ¸£Ê‘Ã[K5î+48š;Õ)çqüÏëÔ
+O‡åÂÙå±*åïwCi¹PÎ5¹Th4<q°'(D™wuvWz:|:.¥åBÉ
+€*”˜%åÂ¥ÓA.l% ^uıÆúÔÃÏ›B?^«\×ó\ºğcU Ñ °óè­õPI+\Y«7\{­ğ:Ñ °³wÔC­°ô†zĞ
+; GY©‡³M±ø<ÊöÎwÕ¦_uù’øöÕ÷Á¯¨øCWŞÏ·càãCE6½á«óÛ•cU“€pnË9Våğ…U @D4  Ñ  DD i*¦iZ¾1‰u_›¿›û¼uh^SÑ  G4  ‘Ö¢Á†bŠıØM =h- €ƒˆ  Ò`4ØPl`C±»	 F pÑ  DÚŒŠl(^c7ô£Íh  v×l46l`Øğ,c +ÍF °¯–£Á°aÃ†íŒ€Ş´ ÀÃ†¶0f :Ôx4  {i?R§aš&Ã†„1Ğ§ö£aĞ‰Ó÷YP7<¤€nu Àëz‰Ã†{N:6ÜaÌ ô¬—htÃ-§•³ nX¥€ÎuƒnXZ+†™n¸¢ úŠ àiİEƒaÃ¯Ûc†™aÃ™1ÀĞa4ºaö¨fºaP ?zŒ†A7dÅ0ë¼ÀY§Ñ0ôÜ[ŠaÖm7(€KıFÃĞg7l/†Y‡İ  ®tCoİğl1ÌºêÅ °Ô{4ıtÃkÅ0ë¤ÀªÑƒãlÇa†¯O_#œ†a×³à|¬š¼İÌIäN°J4ü1ckİ°Ç€aÕ8İt î³ø£µUÅaÅ04·ªP ™4¬haU±÷Jâ–VV !ÑpSÅ«Š#«ê]U0 äDÃ=õŞ5`Xªnä`À °•hx¬tø\.\ª"äÀsDCªÜt(#.›rà¢a›²Ò¡¼\¸TT:È€×‰†g|§Ãğ¡zøySh»ó±úÈu=¿)´ŠcP8Ñğ’·ÖCU­°ôÎzĞ
+ Gû8°*o…¥ãêA+ J4ìì·Î6eÄâó(ş-Õ¦_uùy”+€ˆ†Ã­dÄmÿ9+€’‰  â« €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  " €ˆh  "¢ ˆˆ  ò?œy¸‚Ë»¢    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/pi_commutation_rule.png
+
+‰PNG
+
+   IHDR  ¼  ¼   ‚Øû  †IDATxœíİ¿n£ÛB‡áe84H§ à„„Ğ)¡„Ä (¸*.‚‚Û@:%W@DÃ”Ü t$(Sx&“=q’÷KìØßZÏÓì­­ÙÇãùé]+Nr8 à-¿vë  ìƒh  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $?»õ˜ßápè¿øx<^ï‘Ü?Ïëğjï<W÷C4\Ø™÷—ıïÿ8óÁ~ğŸ÷¹bï,CgîÙÁ³yß_¦[† yøúÏiş¤Ÿ«‹<S1ÍsÅŞY†Î2ì‚hø+.Âs;ßˆë-Â™ßëÛ¿ìô¹bï,CgöE4¼Ç§.Âs»ÚˆÏ\„3¿û·ÙÅsÅŞY†Î2ì”hØæëı&‹ğÜÃwü¢?=WwòàNq·Ï{g:Ë°k¢¡º¯Qxêşâ®Fá)ÁÅY†Î2L@4¼í~Gá©ûˆ»…§a:Ë0Ñğš}ŒÂS·ˆ]ŒÂS‚w³e˜ŒhxÑápØÓ(<õğÙ¯øÃá°Ó—ÑÁ:°‘eè,Ã|DÃû;F<÷Y‹İ#s° ²e˜•høÑÏ]ù`±ßcÄs¼Î2t–ab~`ÕOLµcŒ/Û¾gû&3íÂã¸ñûÛ³ËĞY†¹¹iøj†‹Ç—\úBr‚‹Ç—¸ä–¡³+cÌwŒ8ëB’“#Îr!É‰eè,Ã"|zb]—¹\a†IÆ–aË°Õ£a•]8ùØ:,²'Öaq–¡³KY:ÖÚ…“÷®ÃR»pb–e:Ë°šußÓ°â.<ÚøYÌwáÑ½}sÊµº»gØ24–áÖâ½iXzÆ¶SÅÊ»0–?U¬Æ2X†hÙeX1Vß…“¶‹ïÂÉ²ë°Ë0†eØ`ÍeX.ìÂwo­ƒ]x´æ:,Å2|g²—a¹h  Şg­hp˜øÑËG
+‡‰,x¤X‡eø‘eÈV[†…¢Á.œwnìÂY«­Ã",Ãy–![jV‰»ğšŸ®ƒ]xÅRë°ËğË­³«D ğAKDƒÃÄÛ¾)&Ş´Î‘bz–ám–![dæ»P}±Õ"ë07ËPY†l…e˜? €‹˜<&6xİ
+GŠ‰Y†,ÃÓ/ÃäÑ  \ÊÌÑà0±ÃÄvÓ)fe6°ÛÍ½3G pAÓFƒÃÄï5÷‘bJ–aËğ^/Ã´Ñ  \Öáxœ0%&6p˜ø°ÃSş=šeØÀ2|Ø”Ëà¦ HD Ln 7py	¿éi&–aËp	S.Ã„Ñ  \ƒh  ’Ù¢Áän /gÊ{È™X†,ÃåÌ·³E p%¢ H¦Š7¸¼´ùî!§a6°—6Ù2L Àõˆ   @" €D4  É<ÑàÒxƒôuLö6é9X†,ÃuÌ´óD pU¢ HD ˆ  ùÙ­ÀşiŒ¿~õürŒ?ú¤Ç°;ÿ0Æ_¼úşyŒ‡Oz,K‹ÚúF^ï©†X^w§Ñ0ÍW§|õ§c|ã/ÇøÕÿøí?şï2Æ/Æøû>2.ï¯ŞãÑö&³-ÙŸqãÇø1şûÛüŸ1~cŒ?ã_nøÈ²9–áN£k»»W"p,¯»ÓhxG^9‚p'îğp0ËÀ~Í±¾z HD ˆ  ·szîÿ}ŒÿãÿnüX vç×ÇcüëÿfD?‹h¸Ã¿3Æñgcüİ­ÀŞÆøı1~5Æïñ··~0‹˜'Çãş¾Ø_ñ[cüæ¿÷¹¿ï—ÍßÂ…â0Ë¤g²Ëe¸•.ÃßŒñÛcü|Œ?¸õ#yÅLËp˜æ#§¯­úrë±¾ ûòfš†™X†,ÃÌ´óÜ4  W% €D4  ‰h  ’©¢ÁÛ¤7ØáÛ¤ïÜLïušŒeØÀ2\ÚdË0U4  ×# €d¶hp¹{ÈË™ìr>–aËp9ó-ÃlÑ  \‰h  ’	£Á=äî!/a¾È)Y†,Ã%L¹F p¢ H¦ú)—Où¹vø¹vğÉ7‡Ã„×ÆŸıZ†È2|À”Ÿ›n €hÚhğ¦§¼éé½f=LLÌ2l`Şkâe˜6 €Ëš9)6p¤ØnâÃÄÜ,Ã–a»¹—aæh  .hòhp¤ØÀ‘b‹¹Ó³X†-¦_†É£ ¸”ù£Á‘¢zÇãÑ‘¢˜ş0±ËPY†l…e˜?†u(¾¾Ö­Ã›VØ…EX†·Y†l‘eX" €[%)^óğ“@v¤xÅ"‡‰uX†×X†leX%†uxÉÃ™×ºu8k]XŠe8Ï2dK-ÃBÑ0¬ÃsçváÄ:ü`©]Xeø‘eÈV[†µ¢ x·å¢Á‘â»—'V;L,È2|g²—a¹hÖáä­]8±cÉ]X“eÃ2l°æ2¬Ã:´]8Y|ÖÜ…eYË-»‡5?ì“Ãá0¾ÜúA|¾-»ğèp8,øBYvg:Ë°šEoNV<U¼kÆ’§Š•waq–¡³«Y:ÆjëğŞ]8Yjß,Cg–²z4ŒuÖác»p²È:Ø†eØÂ2¬cé÷4<u8Æs~"óaŒ‹¾ÖOÏÕ”¯›ÓğùKÁ#ËĞY†ˆ†Ÿ˜ğP—8Fœ5ß #x‰eè,ÃÜ|zâ'f»¼Ú.Œé.$í¯°e˜››†3f¸¼ôÅãK&¸tñHd:Ë0+Ñğ¢_H^óqÖ~/$#ØÊ2t–a>¢á5û;X|Ö1â¹İ,#x7ËĞY†Éˆ†·íc n7
+Oíb Œa:Ë0ÑPİï@ÜÇ(<u·a¸8ËĞY†	ˆ†mîk îoº«0
+\•eè,Ã®‰†÷ø:ãFñíK¿vñg÷ø\İä±>~é×.+öÎ2t–a§DÃ‡|êFìjûÌ°Ü–eè,Ã¾ˆ†Ë¸âFì|»ŞFXîeè,Ã.ˆ†û¾6Å³ï:7ñĞóçjÓ‡úü»ÎMü\±w–¡³÷L4\İ™±xÙâ+ÖáÕŞy®î‡h  ?°
+ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ü?Ò…Î·	>?    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/hadamard_box.png
+
+‰PNG
+
+   IHDR  ,  ,   ö"  öIDATxœíÚ±ÔPFQÿh+ B\=S)ÍlSÃ	B¢€GBƒğîÅæœØ}Í÷ÏZk:¯êğ¿!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD±‡zÀ™ÌL=áLÖZõ„sáŸYOõ‚“˜½^p®£!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1Ã·ïÛìÛìÛÛw¿yòñöóÉŸ^dM„!ÄD1BL„!ÄD1Bì¡ğìf¦p¤/_·Ùë÷9ğ›_kõQÿ '!Ä®ø'z±Cõ¹]ûø:Ğõ#¼˜7¯·Ï·_=ğxÛŞ|©5Áub"„˜!&Bˆ‰b"„˜!&Bˆ‰bãİ¢ûÍÌzªGœÄì^[»—“b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&Bˆ‰b"„˜!&BˆÍZ«Şp3SO8?­;‰b®£!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!ÄD1BL„!Ä~ Ë3/½*®>¯    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/hadamard_rule.png
+
+‰PNG
+
+   IHDR  ¼  ¼   ‚Øû  kIDATxœíİ½rcÙu€Ñ×”Ê®r•(Ôc0räXìÈ`CN,
+UJà€Óìn$?€ø¹÷œµM¦I4zs÷‡sqÉÃñx  Ÿù—G?  `D ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ  ùåÑ`~‡Ã¡ÿÇÇãñvdû<W¬Ã´w«íWvb¸ıÒ/ŸøàÄoö‹¿|ŞçŠ½3í-ºeÏæU|Ós†;yúí§ù“zy®®şûyYÓ<WìiïlÑ]_rÃ)kçs»íyâs}û‡>WìiïlÑ}—¸ë”¿µ«¹¿çö<ñÙ¿ıÃ.+öÎ´w¶èN‰†óü6è™ò·ÆØğĞ??WypÏûi³Ï{gÚ;[t×DCµ­AÿÑö†~SôG_¦ì‘iïlÑ	ˆ†ÏmwĞ´¡ßìıÑ—){dÚÏx¶è,DÃGö1è?zÜĞïbşh#Ë”=2íg|j[t.¢á]‡ÃaOƒş£§{OüápØélÎdÚÏøŒ¶ètDÃ	ûKã·îË»{Éõ–#"Ó~Æ'²E'%^Ûq¿uãXŞïK®·9ğ1Ó~ÆÇ·EçåVıdªYcüzŞ÷l?ËL;tŒq<óûÛ³ÓŞÙ¢ssÒğ›ÓŞsíC¶	ißãR¯˜ö3> -º Ñ0Æ|i|Ò•Ù&{Éu’K<3íg|[t.O¬1ëã:‡l+ìĞáRcÓ~[t«GÃ*³şìk¿È}¦gÚ;[t)KGÃZ³şìÒ‰_j‡>ÓË2í-ºšußÓ°â¬¿8óÊÜ‚;ôÅÖŞß0å¶ÚÚ3¼¡Gs_çN»-úèñ ‹4,=ëã¼R^y‡ç‹1ígm[ôÑâVŒ†ÕgıY›øÅwè3İ°Ó>ò´Û¢c,ÚËEƒYÿî³‰·C_è†é™öŸN»-úİzİ°\4  —Y+òkïg²^¯8l˜˜iåƒi·E_[ì°a¡h0ë§šx;ô$İ0%Ó~ÒÉi·EO[©V‰³ş‘Ÿ'Şı€n˜ŒiÿÀ«i·E?²L7¬ À-ùsß2Ù¯O9l˜†iÿÔË´Û¢Ÿ[ã°aşh0ëÕ¯vh¥&`Ú££-Ú-Ğ¿<úp‘§[}àÍ»í0É£aâ@>îç÷u¸Yâ<ĞóË¯5¿ùü3t‡1fİ¢7ñëä›aşË ÀUÌ3°ŞÙ°S:Ç—˜ú3G pEÓFƒcîÀaÃî8fè3\nŞÃ†i£ ¸®9ïpÌÀİÜù6Š‰ß•}:Ç_5émN €D4  É„ÑàÚwæí»àÚDçÚÄuÌøvÈ	£ ¸Ñ  $³Eƒk<„+çÚDçÚÄ5Mw…b¶h  nD4  ÉTÑàÚä
+Åf¹6Ñ¹6q}s]¡˜* €Û @" €D4  ‰h  ’y¢Á­<œ(6È­['ne¢(æ‰ÎõÃÓøÃşÿôçqxûû= ›& €D4  ‰h  Ñ  $‡ãq’w¯u÷ÄÓ£À™&²à0Æ4_Ssp÷DwÉûû×Ùº_ô4ÉføåÑà´iîNaALïÛälökÍ°ÑhàSÇ/ş?ş9şí?>ùoşúßãøê':ìí\Öåä€m4.È+/A.óûÿŸÿşOÿû÷~0sØà‹ƒiØì×›Á!€D4  ‰h  Ñ  $¢ Hæ‰†ãñ¸»oyÄd|g§:nŸˆcß8nfùÎNc³·\rÿú»¾ÙÃ_şë€=˜ç¤ ¸)Ñ  $¢ HD Ln àÜ:±Yn èÜ@q}İ:1&‹ àvD Ì®Pğ®Mlœ++×4×µ‰1_4  7" €dÂhp…‚;smb\¡è\¡¸é®MŒ)£ ¸Ñ  $sş”Ëãñx8Æû?Â®åÎ×&‡	Øïö>o†ÙÎ‹oã8ÆáiØ¢—›ñÚÄpÒ  DÓFƒ·CrŞ¹;ŞÙy;äå&=fG p]3GƒÃnÊ1ÃN9lè6\bŞc†1w4  Wt˜8ˆÍyÅŞÚ¾!{Ô1ƒ»'®Åmİa¸"›ú˜aÌzËåünôü4áßî \Ëü—'¼³¡zr­·òn†	˜öè`‹v³3Œ¢a˜øâÛ¬Û¤ŸRÓ0íŸz™v[ôsÃX$ €¯[%dòG~d/¿>à˜a2¦ı¯¦İıÈÇch&ş=§fİ&=I1LÉ´ŸtrÚmÑÓ–)†±T4ÿÖû³n“¾¢&fÚ_ù`ÚmÑ×V*†±Z4  [.dòwŸ²—_/3LÏ´¿øtÚmÑï;fFÃ0ñÏÚ¬Û¤C1,Ã´<í¶è+ÃX3†‰?gÖß¤Ša)¦ı¬Í`‹>úA<Àü?{âsşXŠO]4ëk~£~Å°&Ó~Æ¯²E³èIÃ³KùÒY_ğ˜bX–iïlÑÕ,cµ‰ÿÚ¬/µIÃâL{g‹.eõhëLü5f}‘Mª¦ı¶è:–~OÃ‡Ã“şÌø§1®ú·àós5åÜ<ÿ%á‹‚¦ıŒh‹.@4üdÂ7õÜ,ç{³˜ŞcÚÏøÈ¶èÔ\øÉl‡l·œõÉo0í-:7''ÌpÈv¯Ã´	o]’ 2íg|"[tR¢á];>d»{ï÷ğÖç2íg|F[t:¢á#û‹åÇ¥ñî^„9`àb¦ıŒOm‹ÎE4|nC¿AßÅ2•\…i?ãaØ¢³Õv‡~{ƒ¾Ùeº‘ÊLL{g‹N@4œg[C¿íAßÔ2İàe&¦½³EwM4\â·¡šûo·3íâÏîå¹zÈc}¹MnÏ{gÚ;[t§DÃ—Üuîw>å÷Ü§ûÚÌÇ´w¶è¾ˆ†ë¸áÜO7å·Û§{ßÌÇ´w¶è.ˆ†+û>÷/ÎúxóÔ&şzû\õ[}ûú&~®Ø;ÓŞÙ¢[&nîÄÀûÿãğ\±ÓŞy®¶C4  ‰X $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ HD ˆ   @" €D4  ‰h  Ñ  $¢ Hşi§Ïÿú_    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/copy_rule.png
+
+‰PNG
+
+   IHDR  ¼  ¼   ‚Øû  åIDATxœíİMvâXFQQ+‡äùÀsR5Ã'Ş´w§²Q&d%‰NÜ‹à2Ïó ğÌÿZ  0Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  ‘ÿZ À¾.—Kşçy¿#éŸsÅc¢8”;—½Ï·~üÀ—Æ;¿ì›?~ÜsEqñï8€ŸØšDˆ||ıïa^-¯çjóßç‡9WÜÀÀvl…¥Áëa¿V¸óg}ÿÃ çŠ¿ˆ`<U[ai¨z¨Ù
+wşôïâ\ñ”h Fòu	lÒ
+KÓÔñå°œ«N®ÔC·çŠh ÆĞW.üÖ_:t•¿I‡Ñ‰ wıæÂo}¤C·¹ğ›t—h ú5F.üÖ.†È…ß¤ÃˆDĞ©Ëå2R.üöQûZx¹\})¿è†¡ˆ ;ã–j†0,9D4 }xÀ°´óÈaÜÃ’‘Ã|aĞ‘CÃ4MŸë¾Ía•#Ã4MóÊo¾ 	“ GXIüeëUÅV±ªèœh Ú;Ú€á®V0ÜeUÑ-ë	 ±SÃ´ÍªâÅ0YUtL4 -¥Š÷ºá$ÅPè†>‰ ™sCñj7œª
+İĞ!Ñ ´qÆb(ÖwÃ	‹¡Ğ½@ç-†bM7œ¶
+İĞÑ Ôvöb(²n8y1º¡¢¨J1üxÖŠáJ7tB4  Ñ ÔcÌpëïaƒ1ÃÃ†ˆ Åpß½nPwé†æDPƒbxäßnPè†¶D ÀîŒû63<eØĞh ö¥RŸŠ!¥Z @D4 ;2fXác2fÈ64! €ˆh öbÌ°‚1Ãz†õ‰  "€]3¬`Ìğ*Ã†ÊD ÀöŒV0fxaCM¢ ˆˆ  "€ÙM¬`7±ŠjD  @D4 [²›XÁnb;6uˆ  " €ˆh 6c7±‚İÄÖl(* @D4  Ñ  DD ù¯õĞÆª·Í³7lmÃi†&NáÎµjÍ[Ü—?îz–¸sŞŞüñ¾O»['VpëÄ>Êÿ—24Ñpd?W7_Ê?~}dÿq.ıœœ÷gùãN;Ğ–h8 ÍZáïGv»Úª¸>²Ó4!£F+,¾*´Â’z šGğuåh»Nş·ÎpûúM›ÃM=œá´‰†±u‘7>§éè×°ráF9˜cŸv 9Ñ0ªsá·ƒ¦C‡¹ğ[ûtøØÿèö9¿ÒÚïHèöYÇ©¸5e<½çÂÒÇ4ŸçÂR¹&Õ<íõ¾+h 'ÿ_Ö×Õ@Ï½¶öU½½rš4fÈ[á¿§½=ûs—Ëe¸C¿Nªö½Ÿœ&µ÷Œ‚I4d¼ÃÏ!·ÃnÌG\ÁcÇx¶÷ù5ß¢aC–F9Œ8`Xj3r ÈVà ÅpõÙiAß8F1\Í½şÅˆIC×†_Iü¥ïUÅè+‰¿XU oı:Ú€áF¯«ŠƒnXU ï°èÔÁ‹áª³UÅ±‹áÊªxhèÑYŠ¡è¦NRÅİ0Ïó‘n‰Ü×çÑ>N Û·‰†îœ«ŠºáTÅP˜7 kyOC_ÎXÅgËEû@Å°ùE^7 9“†œ·ŠFó†Š -ÑĞ‹³CQ½@N4tA1ü¨ØŠ`Ñ lÊ!7PlÍ­ˆ†öŒnU63 ¬%S÷íÜŠà¢¡%ÅğÈnİ vgC²¡ØİD¢ ˆˆ†fŒÛaØ`Ì ğ2ÑĞ†bHmÚŠ¡ŠÅì&ª @D44`Ì°ÎFÃc€7‰`6!Š÷ØMÔ$j3fxÅÛÃc€÷‰`7†!Ã†W3T&ª2fxİÃc€Mˆ`O†!Ã†õŒêû¯õœˆ1Ã»>§Ëå²ö5â`c†&¿Ë;/ÍÕ¾è¨À¤ØÑ<Ï†)Ã†5Œš @D4Tb7±•o‡<Øn¢•ù½-ƒaCêcšçÙ°!aÌĞŠh v§ûøº
+ê†§CC¢ ˆˆ†ì&¶o(ì&6ôæ†b2lxìãŸ¿:6<`ÌĞ–h *Ñ÷}Ü¹
+ê†»Cs¢¨G7ÜºW…n¸¡z vg7±½`Ca7±¹÷7ÀèDP•aÃ¿Ç…aÃ•1C'DP›n˜¦çÅPè†I1ôD4 œ½²b(NŞŠ¡+¢hã¼İ°¦ŠÓvƒbèo¹š™ç¹Æ;…W¥ÉşóÚU°œ«½¯Ÿ«Ò¤ÂÁ(†Şˆ†}¹ub/¿&Û­;)7Plû:¾}7,aÕƒ¿ùãÏü³·y7,aÕƒ¿ùãO\1tH4 mÓ×‹ı›³üñ­ù½b(6é†ëÅşÍÇYşøV¬º%€ö¾ºaZaŞêŠşÀõ‘_ş³>¦i»«àõ\­}¸­®è\ùå?«ü bè–h ºP®éÈ¡B+,½V[n\ÏUò¸Zaéµz0`èŸh :­*>ê¶ÂÒM=<8˜Šáêéªâëoí;ıñ™›zx|´Š¡¢èËŸ«Š&Ó…ÇÊ‘ÜM‡MWùkUÑC.Ü(s÷À¬$" ±sŞÿØíªâzUîós–é°ç€áÆÍª¢Ã\ømycé4|/	Ï“c{ıİ‘MüJ‡úWÁ—ßÙÄ?é †Òi4ÀyŒõ’Y3Ó†ü˜“ÏiÚáÓ,ñ³I¾Ò¡ú¹âFÃaCş*¼«îTùHØÖH†»¾¿½½ÂKÙ@†»®_¹~˜—ıcë4€ÓrÀ°Teä0â€aÉÈa ¾°
+èÈAŠáêsÇ¹×1Šáj6#IĞ…áWÙaU1úJâ/Vı@{G0ÜØtUq°Ã«ŠÎYO ¼®¶XU»®¬*º%ö5Ïs§G3º‡3Ï³×›=ìñ9<g)†â½n8I1º¡O¢hæ\ÅP¼Ú§*†B7tH4 mœ±ŠõİpÂb(tCoDĞÀy‹¡XÓ§-†B7tE4 µ½Š¬N^…nè‡h ªR?uƒb¸Ò»sÅö‚ïvÅæ|…1 €zŒnı=l0f¸aØĞÑ T¢î»×Šá.İĞœh¨Á†bKÁn¢°¡ØĞû»	ÅğÈ¿İ Ğm‰  "€İ3<÷=l0fxÊ°¡!ÑP‰Å6âİDaC±‰7wŠ!õ©Rº¡Ñ  DD°#c†>&c†œaCÿµ>€™çÙè[Vî&ŠrÚóZÜê5Ò«30™4 ûRÉ!c†õêUy;äë^3Ş	°	Ñ ìÆ˜!dÌğ*Ã†ÊDCm†¯xcÌP6 ¼O4 û0f3¼Ç°¡&ÑĞ€aÃ:o
+Ã€7‰  "Ú0lHm4f(ê±›ÙMlÁ†¢ÑĞŒnxnÓb(tÀËD -6<²Ã˜¡0lØİDÈnb;6uˆ†ÆtÃ}»C¡ ^ ÚÓ·v.†B7 ¬%€MÙM„ì&¶fCQhè‚aÃ*c†Â°`ÑĞİ0MU‹¡Ğ 9ÑĞ‘³wCõb(t@è¿ÖÀ?æy¾\.gÜ
+7*†¢œö!ÌÛäeÚø´Û(Ã±™4tçŒó†¦ÅPœpŞ°y1 ‡'zt®nè ŠSuÃÅpÒ!ÙkÜ:±7PìM4tê,İĞM1'é3à5ŞÓĞ¯¯÷7L½ñıcšº¼t]O{wG¶…’Dv`¢¡kåÅı€SßÎ7®§½ßC|‰ğ&ë‰mUÑw1\lU¡€÷™4Œá «Š^W9ÆªÂJØŠhÆğ«ŠA7F_UÔ0i$¶³µs¬AŸŒhÌ#‡ÑK#8-w]îG4Œçgä0uŸãçÂÕïÓŞùïÓ2:Bö¤óg=èğÅS4Œª÷t8P.üÖy:˜.Àä?=‰†±õ˜Í…ß:L¹ T àŸt˜ÕÃ÷;àÎsİº9íM~íëæö<§hH4Çõ²QµÎ×
+7–§½Â‰Ğ
+@¢á€jÔÃé[a©B=h -ÑpdwêájUF,n¾wÑzàÁi_uÖ–79í@[/Cç´ê>fO’­ş´üácõùvìø¸ô½™4œ”ÿ®špÚ¡ùÂ*  " €ˆh  "¢ ˆˆ`3ó<ûvìÔçêoÇæ1·NT  €ˆh  "¢Ø’Å
+6Û±›¨C4  Ñ  DD°1Šl(¶`7Qh  "¢ ˆˆ`{6+ØP¼Çn¢&Ñ  DD°Ã†^eÌP™h  "¢Ø‹aÃ
+†ë3Ô' €ˆh vdØ°‚aÃÆMˆ  "€}6¤>¦yÆ­ˆ`wºá¹¯« nxJ14$ €ˆh j0lxäãŸ¿:6<`ÌĞ–h *Ñ÷}Ü¹
+ê†»Cs¢¨G7ÜºW…n¸¡z  €ˆh ª2løñ÷˜¡0l¸2fè„h jÓÓô¼
+İ0)†ˆ ³wCVÅÉ»A1tE4 mœ·ÖCqÚnP½@3gì†õÅPœ°C‡DĞÒ¹ºáÕb(NÕŠ¡O¢hì,İğ^1'éÅĞ­‹1@.—Ë4MÓgëãØÃÇ4mz,çê¯İ%‰\˜º%€\.—£uÃ†».—ËÁ^¾úg=täh«ŠİŠa:ÜªB1Á¤èÎV[¯$şr€U…•Ä@DĞ©W{îwUaÀ0Ñ ôk¼‘C­ÃÒp#†‰ wc¤C»\ømˆtãÀúM‡>rá·nÓA.ŒN4 #é+úË…ßºJ¹p¢ÏW:Lêáû¦Ğ!^?¯çªÉ±^o
+â\ñ”h Vµ†j…¥šõ J4 G°c=Ş
+KûÕƒV8<Ñ ÊO=\­ÊˆÅçQøEry®VıªËÏ£<ğ¹¢ÀÁİÉˆ¿ü%Ñ¹â1Ñ  D|a  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  DD  @D4  Ñ  Dş}ìƒ1µ²ÿ    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/spider_fusion.png
+
+‰PNG
+
+   IHDR  ¼  ¼   ‚Øû  IDATxœíİMˆeéAÆñçq0‰
+’ÄÑ¸DDt!ƒTD“`4DE1
+YdP\qaP7"f!
+†	„¬‚’,‚¢Š.FÌBFW"ù@ÑˆdÔ,”DF3å¢ºNWuWW?Uuï=ï9ç÷ÛÌtÑ3s¦ç¹ïüÏ©[]»ÓÓÓ  <Îs_  °¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  ò²¹/€yìv»ş'ŸîJ˜101®'6áŠƒàù;ıå‹å2&ÆÀMíü7^±û/é›•“{´Ÿ¥0&ÆÀ­‰†:à‰ğ0gÄØŒ‰1pw¢a=z"<Ì1c`bì‘hXƒ{‡Â,'ÂÃNÄ|Œ‰1°w¢aÙÆ:.r@101D4,Õ¸‡ÂEˆ£0&ÆÀA‰†åYÆ¡p‘â`Œ‰1p¢aav»İ’…‹Nœ{fLŒã‹±¼Ûˆ‡¹±Øc`b“hX†ßF<ÌÅİcàÈ|ÃªXÕ¹äù›ışö\dLŒãó¤ahkxğø(HŞ101æ"Æµ¶Ûˆ+y Ù1&ÆÀŒ|zbP›8âdÅ˜ó#ÚÊ¹pÆép-c`bÌN4g[çÂ§Ã#c`ŞÓ0–-ŸÅ¼ìê1œ\ñ3ïªMc¸ÈÉ0÷Ep'Ùô¹w—ƒ1LŒÁÆ!F±õsáŒÓ!‰1œ1†$ÆpÆ†!†à\¸oó§ƒ1ÜgÆ0Ùü! €Šh˜Ÿ›‰mø–ÂdL6<†qˆ†™9®¶ÉÓÁ®fL69†¡ˆ†99®³±ÓÁ®cL66†Ñˆ  "fãfâñ6sKagL63†‰†y8Z8Œ¡eL60†1‰  "fàfâfV}Ka7cLV=†a‰  "ÍÍÄm¬ô–ÂnÃ˜¬t# @E4•›‰Û[İ-…1Ü10Yİ' €ÊîôôtîkØ
+7{p’u,ÖöÀ˜¬eãó¤ ¨ˆ  "ÄÈıXÅ›Œa?ŒÉ*Æ°¢ ¨ˆ  "ÁÈ}ZøsHcØ'c`²ğ1,…h  *¢ ¨ˆ†ƒórÿûÒöÏ˜,v" €Šh  *¢ ¨ˆ  " €Šh8,o>”¾MÚÅ˜,pËò²¹/ É'Kş>ùjò­É%?—¼bî«b|–³¢8÷ûÉ¯_øá’$ŸI>8Û±–³>=œûİ$É;’?L>üNòTò—É?Ì{YÏr6C4 I’ÿJş)y*ùåä©äÉä{’K’¼0ó¥1§''Éß>ú'XÎ–ˆ†Í{)ùDòÎäÉO&ïOş'y)ù‘ä—æ¾6é¿“$ß~ùTø»$É«f¸öï@/vËÙïiØ¼_M=ÿóK>š|)ùéäKç÷
+ÚÉÜpÑ§¯ºwÎp!ìß^ì§I’¯M’|9ùçä“É_$¯O^§ëe@ƒFƒ¯™9’?KM^™üZò}Ég“÷$”ü_òŠäÍs_ŞãØ	cxŒ#¼Ø_L~ğüÏ_üæ>ş·²š1œÎ}	48’?I’ülòÃI’ïM~&y&y6ù‰äÉ¯lKùzıI~*yKòÉ/|üÉ{“WÏv]—õTfYübÿ÷ä·FZ{2h4˜W·3zğ}Şñm>ò¦ä™$ÉÿjnlY;}“'“ç““L>•|"ùùä÷’.ÿQubÓ¿ØßüëCù».ÿğÇ“÷>ôs†YÎ²Æ°,Ş¹m_I’¼æÂG^—|]òÉ÷ÏsEŒâÉä;’÷$oM>—|fîëáöb·œUôIGòò$É&ßrş‘'’×%_Ğ“œû¶$ÉÉwÍ|!ÜIÿbÿƒË?üxò¾ä#ÉwßğŸh9käÿÛvöŞæ?¿ğ‘Ï'ŸO¾âş`«ş#yéòGÎ¾@ÿ›f¸öéĞ/vËÙÑ°moM’|0ùÓäËÉç’_9å(ùß9/yüMò‹Ég““/&Hş*ùÆä;ç¾0îèĞ/vËÙŸØ¶·%ŸLşúòoíòšä…ä¹ä’%OÏuqÌä¹ä¹Ëy·/¥Y¾#¼Ø-g<i8¬ÓÓÓ¡¿Hì‰ä™ä]Ék“¯I^¼9ùpòÉ7Ï}m×[Ú»å3şÎ<¼=yUòDòõÉ’÷%ï˜ûª®gC¿ØŸc9Ã²ìüúÚn·åñ×d™GÃĞc˜~Ÿ†ßûJnÊæ5Ôr–9†ñ¤ ¨ˆ  " €Š¯ ’$¯æ»`°,–³%4Ü2Ş3¿,‹}¯“1ìŸ10YìD4  Ñ  TDÃ1x¹OiûdL>†¥ @E4  Ñp$CîÇ*@Ã~“UŒaD P @Åw¹<ªõ|_»Y¬ë	ä-Ç°ÊGÙ·úu0îY×çI PGåMO··º›	c¸=c`²º1N4  Ñpln)nc¥7ÆpÆÀd¥c™h  *¢an)nfÕ7Æp3ÆÀdÕc–h  *¢an)Z¸™0†–10ÙÀÆ$fãtx¼ÍœÆğxÆÀd3ch  *¢aNn)®³±›	c¸10ÙØF#fæt¸Ú&Ïc¸š10Ùä†"æçtxĞ†Ïcx10ÙğÆ! €Šh‚[Šû63a÷ƒ1L6?†Aˆ†Q8çÂ=ÆÃ=ÆÃ@DÃ@¶~:8.0c˜ƒ1Œcç?Æhv»]Ÿû"Ï¹pc`bŒÀ“†álñ®Â¹ğÆÀÄhÑ¶NçÂµŒ‰10;Ñ0¨­œÎ…‚101æå=CÛívIÖù‰Ì“$Î…0&ÆÀ\DÃ¬ğPn#nË˜ÇçÓ°¶’Î…;0&ÆÀñyÒ°kx éÁãcà˜DÃÂ,ø¤Ûˆ}3&ÆÀqˆ†åYŞ…Ûˆƒ1&ÆÀˆ†¥ZÆáP8
+c`b”hX¶q‡ÂÑcà@DÃŒu@8feLŒ½ëqï€ÈLgÄù—~YÔŒ‰1°G¢a…zF8ÆfLŒ»kvÀ3Â‰°4ÆÀÄ¸5Ñ°	÷ÏˆÉ‹‡~×9³Y.c`bÜ”hØ¨+‹G3’u3&ÆÀõD Pñ« €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *ÿ%@{ÉùÒÆ    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/color_change_rule.png
+
+‰PNG
+
+   IHDR  ¼  ¼   ‚Øû  éIDATxœíİÏ‹-é]ÇñÏ¹^ãä—º1‹80â& nâ¯¨0D%QDã?E†	¸ÍbDpåBQâBTDu#$„hDÔˆqLB&¹'‹ÛÓ™îéşôªzªêõÚÜæÌíÛEŸ:Ï¼ûûTõ9Ç  \çÁÒ  ¬ƒh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨ˆ  " €Šh  *¢ ¨<\ú XÆápèÿòñxœîH€qX¸šhØ…K‚îôéØ€K^Úwüt+ÃÖ<ÇöêKú&‰P9yåOç¬ÎÙÊpï¯Ş³ˆ°2l•hØ 	[á"õ +1]+\òµ`eØÑ°³¶ÂEê†4g+\òÕ`eØÑ°¯,
+‹´ÂE'‰pº2òR<­+ÃÚ‰†u+Î“°œ¡rá<é°v¢a­ÆÍ…ó¤ÌkØ\8O:¬—hXŸuäÂyÒ¦·Š\8O:¬‘hX™Ãá°¦\8ïÄê S9+}utÃªˆ†ÕXß€á"#¸o«0\dä°"¢aV<`¸ÈÈîÉz9¬‚7¬ZMC’nöûíKm©’oøÎ,Â¤ah[Ø’x=¶*à¶6°%ñzlUN4Œkk†KÙª€ÚØ€áR¶*†e{bP»(†Øª€›ÙC1ÄVÅÀDÃˆöR§ttvR§tÃ˜DÃpöU§t\gWÅpJ7È5cÙc1œq}Ca“k¨çıZ;,†3®oŠIÃ@v]1o€Ëí¹bŞ0Ñ0Š½Ã)İ ßhçÅpJ7ŒC4A1¼J7ÀcŠáŒn„h  *¢ayÆ¯eØ Æ6Œ@4,L1\N7°oŠáRºaq¢aIŠá*º½RWĞË @E4,Æ˜áz†ì1Ãµ$–¡Zº=Q%İ°”‡ÓıÓ«{Fı¦R²Âó`6FC’ãz~˜>œÌøµŒnä…³¾IÊÈçíœ'*33f¸‘Óaƒöff{ ¨ˆ†¹3Ü†+Ø:c†[peÃüD P³2f¸=Ã¶Ë˜áÖf& €Ê´wOp1Ã]Í~Å€^sgÇáÄ­Â«gÌpGn£˜“I P @E4ÌÄŞÄıp9$Ûboâ^¸r6¢ ¨ˆ  "æ`oâ>Ù¡`+ìMÜ#;ó @E4  Ñ09{÷ÏëgoâŞÙ¡˜h  *¢ ¨ˆ  " €Šh  *¢aZn˜Š(X3·NLÄS=¾ü•Nòí?|ù}òéNòß/ÎyDp=ç-°I£G 0Ñ  TD P»÷(ùdòÁä“ŸJ~;ùrò(ùñä£K°GÉï$ß›<‘<•<“|1y”¼-ùÀÒÇÆ‚Nú¯Nnÿ¹G7Ìã7“çüÉ&_H~:ùBò“K×~Üåeùåä¹Çÿ[ò‰äóÉ¯%ŸO~aÉãbaÓFÃ}ùß—æXX÷x£Î_'Ï'oN>|òOÉ3É_$_MŞ”¼géÃ»ÎàOÙ<çí®şŒoÆŸ$Ï%ßšü~òcÉ§’ŸKş(y9ykòş¥ïZ›9OÇáîÌ6LF÷—I’%?’$ygò«É³ÉóÉÓÉ<²¹ËËD”0…O&I~=ù™$É%K>’<—üRòÄ’‡ÆÂÖ1iø¶·äÅ¿¹äñ'ŸÎ¿ÿ×½}•)šnôàı—$ÉûÎ=òîäÙ$ÉOÌ476øS6Ïy»+şàu;ƒ¯ÿ˜ä¯]x:ùH’•ìMlæ<Ğ:¢©|)Iòçy*y"ùæä–9"`q/%I¾óÜ#ïHŞ”¼a?M0!wOìÛ“$ÿsî‘ÉSÉW°_oI’üç¹G$ïH^¶0ì`ß¾;Iòwçù\ò¹äKÉg—9"`qß“$ù³s|&ùLòÿÉ§–9"F!öíG“$¿›üUòÅäŸ“%’$¿—¼¼ä¡KùÙ$Éo$œ¼”|:ùùäkI’ßJ¾²à‘±4Ñ°oïKŞ™ü_òÑä½É/&ÿúø‡¿MŞ•|zÑÃ–ğÁä½É‹É’·&ß—|6y{’äO“oIş~Ùãc9¢aZÇã1#ß÷ y6ù•äíÉ7%oLŞ“üAòáämKÛÕN\ ÍŠÇ‘oŸxüyòLò]ÉÃäÍÉû“H>‘<¹ô±]íàÖ‰‰¦ûş‡ı†Ãdÿ:YÏ÷a5¦|¾œ·Ìàp8xæîh˜šI P @E4  Ñ  TDÃäF¿b\ıÇú~Å¹
+r¢ ¨ˆ  "æ`‡â>Ù›`+ìPÜ#{ó @E4  Ñ0;÷ÃŞÛb‡â^Ø›˜h  *¢ ¨<\ú väx<zÇË;±7‘.lr«oïüi=]vı-¸{s2i  *¢aV.‡¼=c¶Ëå·fÌ03Ñ  TDÃÜnÃ˜­3l¸c†ù‰  r˜.ÓVwQ÷œÅê6Š˜wÌ°ºóvü°xÆm=c†ELxË¥§“5ü¼Õ4À‚lO,Ã•-W3°'®l(3,E4,F7\O1°?ºáZŠaA¢ ¨ˆ†%6\Å˜½2l¸‚1Ã²DÃÂtÃåû¦.¥'–§^K1€n¸@1Œ@4  Ñ0Ã†W3Àc†gŒ!F¡Å ¯¥¢F"²÷nPp™wƒbÊ„ï=Áíìôm)\iŸoK¡FcÒ0œ=Î\g‡óÅ0 Ñ0¢}uƒb€Î®ºA1ŒI4j/İ à&vÒŠaX®iÚ+ïƒ¼ÉKNëÜÊéÊ°ÉÏiY†%V`ƒ—F0ÀmïÒH†ñÙX­mU(¸ÛªP«`Ò°[Øª°%÷m[¶$VD4¬ÌŠ·*`2ëİª0`XÑ°>ë90ÀôV7r0`X#Ñ°VëH¹ óZE:È…õë6n:ÈXÎ°é ÖN4lÁXé `C¥ƒ\ØÑ°¯¤Cª‡Ç7…:£`(g+Ã"¯Ì³›B­Û 6hÖzĞ
+°sÖƒVØ*Ñ°eÖƒV€Õš®´Âæ‰†]xµÎÜ(#.ü>J§lÀÅ•áF/ì‹¿ÒÊ°y¢a§.Éˆ×ç$°2p5Ñ  T¼a P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @E4  Ñ  TD P @åë’`AnŸç    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/x_spider_multi.png
+
+‰PNG
+
+   IHDR  ,  ,   ö"  
+ IDATxœíİ¿ŠlKÀáÕrAACE4Á@| 1Ó—0ÑØ÷023ŒÌL¼‰úˆ70QÄ@Ú`ÎôéÓÓÓ³ÿTÕªÚõ}ÁenŸ™îÚ{æ·W×LŸ9§óù@Oe/ f'BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BH&BHvüO§Söà‘ƒGøTà;<N>º8ôçîâàÏçì%°İá¯¡Oa<wxøOäşJzü/t8–§Ï×áŒI"¼|"u8Š©>SSDs\PãRà$ŸµY"›ÃÑLR`Lá…{6ÏVğb®m;7ççe®c²KìXfÛ
+^LaØöm¶cÎ/tØ	·‚“FhsØ•É?“F³^t;4íVğbŞÃæ°'Ó“Gx¡Ã,3o/fĞæ0‘sşdöcúËp[ÁFØæQ`ˆğ†Û°¼&Âwl›q†oˆğ=æl_álÛPà5Ş§Ãlïá-›ÃJœÏ×ˆğ—êâlá}6‡5(ğ.¾A‡ûÙ
+>&ÂWÙáì½I„¸xïd+¸„ß`s¸ŸáR:\ËVp!¾Íæpçj9.âr¾Š­à*"\Êæp-.$ÂÕtø˜­àZ"\ÁæğMÎÌ"\Çş[ÁmD¸šÍác
+\K„Ûéğš­àf"ÜÂæğ†ó°‡7rÉ¿°ÜI„ÛÙ^Sàf",`æm÷á.“oç<êâD¸×´CÀV°0óæPû‰°¤y:´,H„eLµ9œá[a1“Œ[ÁâDXÒ<›C$Â*Ú¡­`",ìÀ›ÃãQ'DXŞ!…­`="¬â¨›CÖ ÂºÑ¡­`U"¬å0›ÃÑ×ß?Vt€Ña+Ø€ë:ÆæPU‰°‘;´lC„Õº9kµCaÃ[Á–DØÈˆ›C¶qr¢›)2^f¼ÿ!|a4#Â¦¶uxŞÍ‡îİx¹}ÏcùÂhæ£ìÌå|>/Fú¾‡t÷~ŞêJ)LÂo>ß{÷Kî*bá{¾ç7×—D[&ašÓéÎpy~œ¯âµ‡V`s¾;šàîOO§Óét:W+ğı£GœŸîúÑ+?,¯a›Ó&¿ğœbØ
+f³'Ì´ç[/ïîaß‡ÇÕ÷Q}%d1	!™Ó<=}÷vÖß8ÛæaK‰O¯æa‚ë—Ÿä¬%nV¢ÃöDØÚMüQËeDÄ½9¬ÃöDØÔk6Ş>~6&ÂvÌÀh¸9¼Ù
+Ş¥Ã–DØÈãŸ´Ü.YŒÛaê}íïÿá>Å‰°…%cğIÕÍáÚû4ÛauË|RiL-Ù
+¾¤ÃDØ£z›COD;$ÂºÖÁÛ/µŒˆØZ aX›;Ups( Î‰°¢c°ÈSÇm[Á†aU"ìZ©Í¡­`ÏDXËÎ1x{o;>ªÈ2ÃzDØ»Í›CÅŒB„Ø0ÊŠliC„U”}.[7‡Å×ài"Ì’¼@t,"ÆÂÍ¡Q5äÍáf+8"–W|Cxí²9üeÄ·ŸoüZÄO#şıáûTztÛÂâüòßòªF~9EU'¿&¸4“p</ø}Â*(F„ãùç‹[¾óüÆo[®ƒBD8EDÄ÷îıÑ›.„2D8§§£Ÿ~qû7"¾Şz- Âıçêí/Eü*m!ì"Âƒø$âÇŸd/ƒD8°Ï\½ı“ˆ#¾ïÇôáØ.ÿ¾ïÏ"~ñçˆ?æ.ˆõD8ª_ø¿§ˆ¯DDÄßÖÂ."Øÿßx†ˆˆˆ/ä¬…íD8°Dü)â¿‹ˆˆßE|.â›¹kb=¯­¢êËGÿñåWşèç?ªö¸á…£uˆ°Šª>½€û»_øMÄ?">ñ­ˆ#¢òwGEXÃGÙ`£ÏGüâÅş–Ñˆì	óff:«8ŸÏõbøËƒÇ­ö á¹h5"ÉÂ°Ã±Øæ|õß×ŞA„c1	k)şŒtÕ½ïĞsÑzD8’µÿæ6CaE‡á†û)8ÁªD8Œşá{ja]E†áæ{(2ÁÚD8†èf"¬nç0Ü9Íö¸1X›[ØÙáævÖ£À6DØµR›:z&ÂF6Ã“hó‡ƒÍˆ°µ–ıAßÚ÷W`3"ljm‡E:X{'
+lL„­-ì°Æ‹?¾›a‚…Laá])0…s<î°Ò÷3ßüÇî˜B„iwX¼†Çw¨ÀD"ÌôÔáMŠU¬÷òÎO
+ÌæoÖ'{úê¿ù‰•‚xù—îå×“°—‘ØàÕ-§çÿ*°~ùo_N§SÔÿ¥i!¿˜„yWà½b™û÷:Ò.Ùöåi@]6ŠïnÜwŸ—ğ.ÓïrÏô@„½xÆİf–ÿØıåıÜ<œg¤aG^«âúö…Cìq`çóÙ0ì‡»°<‰‚ãË0ì„oÌô¢qòë‡ó%>3ô¤´"ìBÊ\2;!Âdé³(}ˆ0_âD2{ ÂLL¡N–1-&KŸEé@„iºš?]-f6"ÌÔÉêdÓa'O‡Kš„Ót5ºZÌlD˜ Û™ÓíÂM„9:œ<.i"l­óiÓùòI„	º9İ.ìØDØÔsfˆE‰[ë|Út¾¼Ca;M˜–z "ljˆ93Ä"D„7[†[ğ¸DØÎ@f ¥€[tªºìáˆ°‘áfËp—«z½øQˆ°…A§Ê Ëë:À$9À!tN„Õ=O†^ü(DXÑafÈa¤O"¬ë “ä ‡Ğ9Ör°éq°ÃéŠ+:Ì9ÌôI„Urnò z ÂZ6=v8]ay>´D"¬âsãÕvøYqølO„åxbøĞ‰°¤I¦Ä$‡ÙŒ;ü¬8ü¶'Âb¦šSlm",i’)1Éa6#Â2&œr%",fªù0ÕÁÖ&Â¦	ÓxY",cÂÉ0á!W"Â½&Ÿ“~",`Ú™0í—%Â]Ìpvá^“OƒÉ¿ng\8{ˆps œ„İD¸‘kÿ'd3ng\8{ˆpWı»œ–mD¸‘kÿ'd3®æzÿ€“³·pÕ¿ËiÙF„ë¸Ò¿É)ZK„«¹Ş?àäl Â\ãr¢Vá:®ôorŠÖáR®î«8]Ë\· —IÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉDÉş3wOjk±î    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/z_spider_multi.png
+
+‰PNG
+
+   IHDR  ,  ,   ö"  
+™IDATxœíİ=ndK€á:!"„€e 7 à'd¬€!b$¶@H@Š®„`@°Bˆ¦	zÜÓv÷´ÏOU}õó<Á•íëé®sú¼ı¹Úñr:ç+Ñ€Ù‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰‚‰p­eY–e‰^Eœ«MD¸ÖétŠ^BOœ®õD¸'øw9E[‰pÏî+9Q›ˆp3Ïô89;ˆpÏñïrŠ¶áïïrZöáféprváNõßpBváïïrZöá~û/œŠ#D¸“gı7œİDxˆ	œ„ÃD¸Ÿçş§â5ù˜üğ³á!&@raÓNƒi</5ù˜üğ³aÎ„	¹f0í4˜öÀóa6SM†©¶4æ1áL˜ğaN“Ì‡I³f3Õd˜ê`KafÃO‰á°>æ4É|˜ä0«a~ÏŠ-3~J€õ‰°ˆ!'ÆÕæ7ğ¬øĞ‰°”ÁæÆ`‡Ó1äÄò Z Â‚†™ÃH›DXÊ`sc°ÃiŠË`†paAÃLa¤M",®ëIÒõâ{!Â²˜!BãDXC§ó¤ÓewG„Åu=Iº^|/DXIwS¥»÷K„5t:O:]vwDXOG³¥£¥@„•t7Uº[p¿DXU¦‹ED„õt4[:Zê DX[ãs¦ñåI„Uu1aºXäHD ÙiÓìÂÆ&ÂÚŸ3/oH"ŒÑàÌipI“a€f§M³›Ã45yšZÌlD£Á™Óà’&!ÂHÌŸF–1-†ijò4µ˜Ùˆ0Xø
+_ "ŒÔÈüidÓa¼ÀYd¶@„ÁÂ§PøaB&’1ØÆœEÆ`DØŠÊsÉlÇW£@J)N§•U¬ü´5#Îl„²,Ëİ0^…÷¼ö¦.oßŞ¦1Ø¶âv~zw]x¯\ı‘Ëí\×h¶C„m9ÃÙìhï®—Û1 Ûtÿë¢dÎï®§”LÂ–˜„­¨4¦RJ)=¼;)¶@„MX–åÓô{*|gÏŸşû¹—‚¨É÷	ƒ-ËòªÀ³BŞŞìóËˆcFº“_Jé¹ä0¼{wFb(“0Ìı/²wøøŸ½vF„1Ş)°Ğ«£oV‡ADà/2Ã•7¥Ã"¬mmÙ‡áÊÔau"¬jmY†áÖÑa]"¬gs‡áÖ›ÒaE"¬ds‡áî?®ÃZDØ¶,Ã°èO¢r˜kØ?ÏvO³ƒSÔ0¬B„Å-ğà;üÇuXš;±c¦•şAp2aYGÇàÙî[È´¥4‹a?6M6c°",(Ï<;öÏÌ¿wÃ°veå|3»"ÂRrÁ³¨Ÿ¶y¹AÃ°öæİ)göF„]Yı7!èˆ‹Èÿµèµ³®èôi"ìÍ»mƒ½aŸîN<»Á>‰°CõÿqJa~e7„Oß-Ä¶° öénäÆ`ŸDØ³§›7è»õüğ]ú!Â>}Hé)¥”^ÆàÿRúÒRúUäºØÁï¢èÓoRúòõG~›ÒOSúOJ?‰Y»™„ú[J_¦ôÍ”~wõÁ?§ô§”¾‘Òaëbvè/)¥”~Ò/¯>ø!¥/SúAJ_Yû‰°CÿL)¥ôÃ{ÿëÇUB"ìĞSJ)ıôŞÿú~Õ……;ôõ›\¾?!Â‰°CÿzyãÒŞ?<’óĞuë[)ıõåí_§ôáåm?=Ó¿©¼ˆ‚?Ã}nì{)ııõÇ¿Ò¿¯Ş-vï.˜ìLÂ®\¦ÜïSúYJß}y÷‹”şÒ/RúÎÍgÒ<“°ˆ"“ğÒÕóÍŸï}f‰ah`öfı¯Ú6;!Â"N§Sæö·Ük0Kav´tÉÕ<l›ww+¸†¿aØ	–’ù+Ò}EeÜúZ´¶-×ëœ¾(m˜::³”“esh–$ÂVíŞ
+Ş²9l›Ë::óşÑ}+1a“JşÈ­aq›‡a¡NömÁòDXÃ†3nomÿV Â&•{)Å•¶G„•¬†å¶‚Ÿ»¯‡Ÿ`Ö!ÂzŞé°ÚtZ³9T`E"¬ê³İ
+Şz|/
+¬K„µ=š‡5¿«ş¹Í¡«a€·ÖÜ
+Şz½Ö'ÂŸ:|¡òÍæPADæÕ<ŒƒW*0Š!˜Ã,Ë’R:NùÿAšõ®ày=Ôç—„ÆxsÅŸN§©öuéÓÇû½¾÷eñO`a€K×Wüùí)^åw}ï&a†¹;sÊ¦x/¿ë»^–Å0¬O„µ]¶‚>çUŠép/Î•ué°2VµéK¾û/™¬òê•õEÙ†p®ë¹»Ü}#¿F5"¬§ÄÅ](Öäû„•ôxY{½´ÖĞİÕì;ø5‰°¸,[ÁúúZm×DXI×ôÛï”P†Ëêq+xK‡E‰° ®]›Ã
+DXJ§[Á[½¯¿}",kŒ+Øæ°(1ÆVğ–Ka~C^©6‡åˆ0³a¶‚·Æ;¢Fˆ°ˆQ¯W›ÃD˜Ó¨[Á[:ÌH„ÙLr]Úf'Â<Ş
+ŞšákaNó\6‡‰0ƒy¶‚·txœšö*´9ÌE„‡Lµ¼5çQg'Âf¾má~3ooép7îäš»°9<H„{L¾¼å<!Âı\y×lwáf¶‚ép+nã
+{Àæpn`+ø.gfnæ:{Ìæp+®e+¸•Wá*®§Ml7áûlwp®ÖáZ®ª­lWá;lÓác"|ÄÕsÍá"ü,[Á,œ½w‰ğ®¡ãlá}¶‚%èğ.ŞáZÉÎæğ¾e+Xˆóù9"¼ÏS‚Íá]"|ÅV°^á'®Œ
+lo‰ğ#[Ájœá7DøŠë£›Ãk"LÉV0““ë ˆÍáÅìÚ
+rÎÏfğÌÕÅæ0M¡­`;fîpŞg~Ô›bs8i„¶‚M™üQ˜4Â³Éû¦Ì¼9œ1B[Á–MØátNø÷bÚÍá\Ú
+6nÎÇe®Ïæ|¤{1áæp¢mû2O‡³D8Ï#:€Ù6‡SDh+Ø©©)"<›êqÀ<›Ãñ#´ìİğáğßØÎOÃ?.ãá2ş1ÒµÁ'ašày”Ş!4N„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„L„ìÿ` Mn ,«Ó    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/optimization_example.png
+
+‰PNG
+
+   IHDR         T‘?  +ğIDATxœíİk´\uyøñgN(ŒÁ(‚r‚¥«T-”^\t‰ UD\oÅ­Em)•âRTxYXK+ˆíªPDn¹”‹¥,‰!ÜI4$ÿ&ó±ÉÉdÎuÎyffï=ŸÏNæÌì3ç7³¿çÙ{æ4šÍf  g¨ß  P7  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™ÀbRV­ZuöÙg/Y²äå/ùìÙ³wŞyç·¾õ­ç{îsÏ=7…[{ûÛßŞh4¾ò•¯Ly{¦å¼/è»Ü'{Gº÷\ëï³xåÊ•F£Ñh<ûì³}Ù úB`1±o|ã»ï¾ûYguóÍ7¯Zµjıúõ+W®üÏÿüÏÓO?}÷İw¿êª«ú½@n?Ù9äF£qñÅ§l-”™ÀbçwŞ‡>ô¡Õ«Wïµ×^ßùÎwV¬X±nİºG}ôÂ/|å+_ùä“OuÔQK—.í÷fÓåÉ™š0¶›nºiÆŒqØa‡­]»¶í_Ÿyæ™<0"¶İvÛ|°/[Øo{ÛÛ"âË_şr¿7º¨7Oö7½éMqÑEMoc+æ×¿şu±Ã}æ™gú½-ô	ãùÌg>³aÃ†wŞù²Ë.›3gNÛ¿n¿ıöË–-›;wîš5kÎ>ûì¾l!Â“r	,ÆôĞC]wİuñ±}lûí·õ:¯~õ«?ğDÄÒ¥KW¯^=|ùşûïßh4.»ì²|ğ„NØu×]gÏ½ûî»ÿ:ê	§kÖ¬9ë¬³öŞ{ï9sæì´ÓN‡vØ5×\3ÖÉ¡#oaø}ôÑ“N:i—]v™={öüùóßıîwßwß}#·üùçŸ¿ôÒK>úè}öÙgÛm·İvÛm÷İwß¿ú«¿Z¹rå”-¨°”'û}÷İwÜqÇ-\¸pöìÙ¯|å+O<ñÄ_ıêWÃWûçşçF£ñ³Ÿı,"N<ñÄÆ&{ï½÷ğuÆy^?ğÀï{ßûŠße—]N=õÔ§Ÿ~:"šÍæ7¾ñ%K–l¿ıösçÎ]²dÉ5×\3rãÛnùè£nŒícûXÛ—ÿô§?=æ˜cŠW•—¾ô¥K–,ùÊW¾²~ıú‘wôÛßşö³Ÿıì>ûìÓú:6ŞCOõ{„Fy]tÑEÅ"ÿˆ@ñº?şñ‡/|ıë_§œrÊÖ[o=¼ØvÛm·â_Gt{â‰'~çw~gäúüøÇ?^üGÛh}ä-÷xÚi§½ä%/i»‘—¼ä%÷ÜsOÛføÃõ1şü_üâãßÔÌôŸìùÈGFÎ½æÍ›wçwWûÎw¾3ê3n¯½ö¾©±×ıèG[_I
+‹-Z³fÍÑGİvùĞĞĞ²eËÚ¶¼í–:ê¨Q7¦ğñ|ø7nÜxÚi§zµƒ>ø¹çk½—§Ÿ~úoxÃ¨7Xü‡C„Å‹1ƒŸí¶Ûnxò4ªı÷ß¿õú­¾úÕ¯.\¸ğ_şå_}öÙf³ùË_şr¬ùğ‡?|÷İwo³Í6\pÁªU«Ö®]{óÍ7rÈ!ÿôOÿÔÑ6éK_š?ş²eËV¬XñÌ3Ï\qÅ,xşùçO?ıô¶kî°Ã'xâ¿ıÛ¿=üğÃk×®}ì±Ç–-[öº×½nÕªUÇ|Gw
+U7ı'û×¾öµyóæ]~ùåÏ?ÿüêÕ«¯¸âŠW½êUO=õÔÑGıÂ/DÄqÇ×í¬ûï¿ÂÍ»à‚vİu×«¯¾úÉ'Ÿ\¹råyç7cÆŒ{ï½÷ ƒºòÊ+?ùÉOŞ{ï½¿ùÍon½õÖ<pãÆŸüä'7nÜ8Î~ÿûß¹;¼âŠ+†††,Xpê©§_ó_øÂ—¾ô¥¹sçyæ™Å½<öØc—\rÉÂ…şóŸŸrÊ)­7û‘|ä;îØzë­¿üå/?şøãk×®½ñÆ>øàN_Ç¨‰¥•óş÷¿?"vİu×	¯9sæÌˆ8óÌ3‡/)~ïœ3gÎ#<2òúm¿M¿X_rÉ%­W[»ví.»ìRüÓ$'X;í´ÓªU«Z¯yÙe—EÄV[mµnİº	¿‘•+Wî¸ã±|ùòqîjfúOö¡¡¡»îº«õš÷ÜsOqÖüÅ_<|áø'¹õ¼~ÙË^öÔSOµ^ó½ï}oñÊpöÙg·^>übr÷İwËmn¼ñÆ9sæl·İv·ß~ûğ…?şx19»öÚkÛ®÷İwoµÕVFcø%î¿ÿû¿FD|ûÛßn½æš5k.\8êëõf‚Å˜šÍæ4oáøãõ«_=áÕ®¾úêˆxík_{ì±Ç¶^>gÎœ‘“§ñpÂ	/{ÙËZ/)^X×¯_ÿØcMøå/ùË9äˆ¸å–[:º_¨´é?Ù<òÈıöÛ¯õ’E‹½ûİïˆı×æŸpÂ	Åo>ÃŠPúÄ'>ÑzùŞ{ï]¼üÏÿüÏäoÿşûïÿ³?û³6,[¶¬õßUW]µvíÚ8à°Ãkû’}÷İ÷Àl6›7ÜpCqÉøÃf³¹Ûn»½ï}ïk½æÜ¹s;}£cš7o^D<õÔSã_íÙgŸı¿ÿû¿ˆh{Œˆ×½îu“¹£âÁşûï?4Ô¾ 8à€InmaŸ}öi»d§v*~şíoÛöOÿñÿqì±Çî±ÇsçÎ>¿õ?øAD¬Zµª£û…J›ş“}ñâÅ#¯_\xï½÷NsóZO„/ÌŸ??"^õªWm³Í6£şÓÈçûXV¬Xqøá‡?óÌ3ßüæ7ßñw´şÓwÜQüïÌ™3gÎœ9cÆŒ3f5›o¾9"†?‚¡pÀ#_ÇF}p¨½™ıŞ Ê«ˆ•Õ«W?üğÃ¯}íkÇºÚwŞYüÇ¢E‹Úş©x¥›Pñ¤Œü§wŞyrû¢‘§ÙkûıSŸúÔ¿øÅ±®\œ5búOöQŸ¿¯xÅ+bÓ|:Æz^Oşù>–çŸşˆ#øßÿıß¿ÿû¿?î¸ãÚşõ™g)njÃ†cİÂğ{	Çy+	czË[ŞRüÇW\1ÎÕ–-[³fÍú½ßû½©İÑvÛm£~>Âğo‡¹nºé¦¢®N>ùä[n¹åÉ'Ÿ\¿~}qÔ¼í0%‚é?ÙG}ş®X±"6=ÁKhıúõGyä]wİõ—ù—Ÿşô§G^¡Øòc9fœólÎ8ãŒÖ+ó80hcÚc=Š—İóÏ?¬¿óúè£~ûÛßˆc9fÊ/£ÅüÿÎ;ïùÆŸbDŸîßÿıß#âĞCıÚ×¾öÆ7¾qŞ¼y³fÍ*şéèÆ=B™MÿÉ¾|ùò‘_R\Ø:î*N/ƒf³ùş÷¿ÿ'?ùÉQGuşùçzâ¬²ë¯¿¾80:¾b
+xÇwŒ|õÁ¡öãùüç??cÆŒ+V¼÷½ï]·n]Û¿>÷Üsïz×»Ö¬Y³Í6Ûÿ7GqDD<üğÃÅ;ş†­[·îÜsÏòÍ£88òìıèG·Şzk7îJnšOö+¯¼ò¿øEë%÷ßÿ÷¾÷½ˆø“?ù“áçÎÏ?ÿ|ş7Ğ¡O}êSK—.}ó›ß|é¥—<kªpä‘GÎ=û×¿şõç?ÿù	oğÿø#â—¿üå¥—^ÚzùÚµk»ô:FÉ	,Æó¦7½é_øBD\sÍ5oxÃ.½ôÒ•+W®_¿şW¿úÕÅ_¼ß~ûı×ı×ĞĞĞ…^¸Ç{Lù^öÙgŸ?ÿó?ˆ“N:éë_ÿúSO=µnİº[n¹å°Ã{ä‘G²¾—VÅ9§×\sÍç>÷¹Ç{ì…^¸ï¾ûÎ8ãŒb3` MóÉ¾qãÆ#8âŠ+®X³fÍš5k®ºêªÃ?|Ã†mïŞsÏ=#béÒ¥<ğÀdÆB]rşùçŸwŞy‹-ºêª«fÏ=ÖÕ.\ø™Ï|&"şæoşæØc½ñÆW¯^½nİºGyä†n8ãŒ3Z?y¯½öz×»Ş'Ÿ|ò\ğÄO¬[·î¦›nzûÛßŞú‰ö®~õpá…n»í¶£®ŸyóæüĞäæ¦O¯Yºté¨78ê'¹ï»ï¾#oøoVüæ7¿ÿÆ¹Çâ]„­Ÿ‹³aÃ†á“NZ-Z´¨ømûÓŸşô8÷u5å'ûÉ'Ÿ<²TvØa‡Ûn»­õÊE¥µ^g2Ÿä>òy}ùå—·}í°âÍËm_ÒvËãœ§vÚğnÜ¸ñôÓOëÈæŒ3ZïåÉ'Ÿ,6¸Íğë˜ÏÁ(&XLì¤“Nzè¡‡>ûÙÏ|ğÁ;í´Ó¬Y³æÏŸÿæ7¿ùœsÎyè¡‡R¦>;í´ÓÍ7ß|Ægì±Ç³gÏŞqÇßñw\}õÕ'tRDÌœ9säá¼éºöÚkÿú¯ÿzÏ=÷œ5kÖvÛm÷ú×¿şoÿöoo½õÖâıê0˜¦üdË[ŞrÛm·½ç=ïY°`Á¬Y³^ñŠW|ğƒ¼ë®»Ú>iå ƒúáøğ;î¸ãXæz 9éÏıj4çœsÎm·İvâ‰'î¹çÛl³ÍÖ[oıš×¼æĞCı»¿û»{î¹§õÊóæÍûÙÏ~vÖYgí¹ç[mµÕ;ìğ¶·½í?øÁ¨gĞS{É¯3è½K.¹ä/şâ/öİwß»ï¾»ßÛŒbÿı÷¿ë®»–.]ú÷¼§ßÛ%b‚Ey½ğÂÿøÿ›> ªB`Q
+?şøıÑ]~ùå>øàºuë}öÙıèG¿ÿû¿÷İwÏ™3ç£ıh¿7 :à“Ü)…f³yíµ×^{íµm—Ïœ9ó¢‹.šÎ[ ÷L°(…üøÇ?>æ˜cöÙgŸí¶ÛnÎœ9»í¶Û>ğÛo¿}äß¯ €’s’; @2, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’	, €d  ™À H&°  ’Íì÷ĞF£1ù+7›Íîm	ub]¤X¥Ö¾ç[>õ¯µ_d˜uĞm¯e³Å¬“=ßoşO?ôd]ô’À*‘w‰;¿±,°;Ö@ï	¬şÛ<ZèÁ.°Õ¦Ùƒ5PKÖ@	¬~êİha|õb]ôÀê²ì[ÙVŸuP«×Ê¸lewXMÖ@©¬j4åİ¶Zl_X%Ö@Ù¬)û€a$#‡*°® ÊI`õBe#9”˜uPZşa×Ux/Ë;û;*ôŒuPf&X]T½Ã7cqX§L¬+€òXİRíÃ¨Ö)ë
+ "ìŠîÃaş³® ªB`å«ç^°`_Ø?Ö@…¬duŞìûÁº¨•©ş{Á‚}aoYW •#°ÒÊ^°`_Ø+Ö@	¬ƒµ,ØvŸuPQ  ™ÀJ0ˆc†‚aC7YW Õ%°¦kp÷‚ûÂî°®¬+ ÒÖ´ú^°`_˜ÍºŠ°®€jX  ÉÖÔ3lfØÇºÚÌº*K`M‘½`;ûÂÖU;ë
+¨& L`M…1Ãè¦ÇºuTÀ HÖh6›ıŞ†Š1f˜Àâ°¨¦Àºš€uU5Íıp©Ÿ™ıŞ  ê ½¨:ù…¡íkõ5`‚Õc†I1lèu5)ÖUùlF‰kxñæÿôC§¢L° èØ‹iÕ¥_Zn¶¸#™Eå, &kóÈªg3×å[Ü¯Ò¢*"ì€ã8p4gÒ¬«XWıÓİ‘Õä-YT	 ã)KZZZ2‹23Áš,c†6L‚uÕ1ëª‡Ê•V#™fQb&X Œ¢õ¿iš¥±(!ÀÊ>¸j³ÜCÊH`°YW#eQ>şá¤Tò§ïüŞ‰XWSa]uSµ×¤µA™˜`PµÃ‚cq¸ÒX ƒ®Úƒ«6R´ZÕÕ0‡é70¸êYWE_	¬‰Õù¨Û¼ÀÍºš:ë*Iı¡¥Bÿ,€ATÿº*h,úD`œA©«‚Æ¢À`¬º*h,zN` $X dÇWC,zËNÎâMÿ1˜/L@-n]–û RzÇ‹®ó[ãH“éóvjĞëª`E¯˜`MW% `ÒL° êÏøj3C,zB`Ôœºj§±è> L`Ô™ñÕè±è2 L`ÑM‹#"|êÌH/>&‹'ºLñÕx±è&5±f³iG%âù”À¨'ã«‰bÑ5  ™À H&° jÈñÁÉr”îX“â<÷©ğˆM†G©S‹½/¨ TL1oYã0¾êŒ!] °  ’	, €dk²œ†Õ'ÊLuÕë
+¨P+NÀš
+§a‘M`uÀ°a²Œ:a]M–uT‡À¢»ìÇâ‘¨1E·˜·O†G	 –VgÍ™˜ã8³®&f]•"° êÃîSç<wR	¬6ŒÇ˜aª¬«ñXWuòtÄ#ÎíŸn‰X±8â«½Ş(H'° è¡ë#6F:âòõçØ)QÖòT6ŒÎ˜az¬«ÑYW5s}ÄK#qù%+"ŞÙû‚®˜Ùï€®èè\
+ûoè‘5·F>â·ûßŠ86b^¶Ò	¬)j6›N&İB¿ÇmEÕÑ¦´mÿ¾ëª]¿×»)âÔq¯pIÄ¢Mÿ}cÄÿíøà?Dlñ¡ˆ+Ó·úC`M}áf}Ú¶†Ñtî¾ík·¸Ù_ÖÕfêª~®‹Ø:âà-/¼>âÆˆs#¶îË6AW,*©h .í{[oöÅ;²›glƒşŞş%Ë#ş4âÙˆŸnºpCÄïF¼&â{-×\qsÄ’ˆ­Z.|!â‹om¬ÕFÃókZ"z:fŞ“õìõ¯Ùv¿=ùN­«ã«:úyÄoG„ÔÅOE|½?[İ#°¦kĞ÷…½Úvud5¡áûíÙ@ËºªP]•jSK=N».bVÄ!-—<qiÄ#ök› [|LC‚Á}w}Oö‚F£Ñh4ûWW­ŠÍ(6©ë÷e]Q'#nˆ8(bÛ–Ï‰Ø9âø¾mt	]‘2ééïÔj­Ç§ó=c*ç|0nx.â­-—lˆ¸5""–Œ¸ò7#¾ñÎˆ3{³qÏ+Ç º<f(ÏÔj,ÃÓ¬.Ş…uEmü$bhËÀ‚Z3ÁJ3X'Íts/XÚÁÕ¨š]>1Ëº¢’Š_ŞŸˆx:bûˆ¡ˆë#ö‹Ø±å:3b”…ıİˆó"Nˆ8¥'Û	]c‚•iPæ]®«’®Fêö(Ëº¢zó#VGüaÄ·"îXU–b€ŞXÉê¿/ì~]U”Æšu•¤DKåäˆ"¶‰Xq]D”>°Jò¸QÎ®íŠÚÓ™ô^°Ó£fÕ:,8¢°:şÆ'ÿ¨öº*øô×ñ•q±UÄwû½ã[a]‘Ç9X]QÏófº6c¨ôàªÍğ»ñXYWÃì+æûıŞ è9Õ-/îc´³8+§›¿ØÕ©®†5»İX1¸ëªÔ¤	°‰Àê¢bÏQù‘ƒ“®¦¤«Ö@¹9É½ëJtÎé¨«ipÚû˜ÔU7U{mô‹GŒl&X½PÉÃ:]>ß³öuUèŞ+¬+€X=R±Ã:=ù”öÑíÆ
+ë
+ |VOU`äĞıÃ@ÕU¡«Ö@ù¬^Û<rˆ’íóv>¦hò²şŞó ¬+&¯ŸèÑ=‹[~K$«?Êµ;ìá.p ÇW…n±^¼—A]W e#°úi‹İaô|¸é]3=Ûl]zÓX1xëŠQbM–SéÕÃÏíŞú1Zğº*ô¬±b`Ö@9	¬i<DêN±åS^ìŠuĞ{«tZ÷Rí']v´_Üòsóú»ó3¾ÖË!Ö÷[ÇuÅø%œ˜ãƒtÀ*µ¶g~Gor)Ï«†ºjÓ¯ÆÚ¼µXW e&°ªÄ¾näuÕßÒíC¬ñ_ÑMş!İe|5ª®ş™B:âÁ0½E"ºz7–¿ı<ºÅã˜Ó&°è"ã«qb•ŠŸK`DÔº±±Ú9ûŠîXt‹ñÕ„±Ê¦Æ?µ™º¢']áõkò<V¥RãÆzI`‘Ìşij<nåQ×Ÿ…!V„ñ½#°è
+Ç'ÉQÂrªëeĞK]ÑC`«nÔ½%°è
+/c“ç±*­º6Ğ`Lµl¬Ab_Ñs`<«òÔı °€Ê(Z§÷;KUaêŠ>X ÓX•¤®è0)«bÔ}%° &KcU†º¢ßfö{ ª¤ÑhÔoÏİl6_lÇåıŞ”é[á/PQ&X ©ë«£¬Å›¾‘NôëÍÔ›À"S-w<=ãÑ«ºş°ªİXR&’Ï+\§šõÜ]×Z-FE:,Hù˜`LQçXUeMé° t›	ÀÔÕu•e\Qb`ZêİX1<¨+UfÕ+­:…Öæ»®=0]5n¬([fÕ"­ÚŠª£o¦ık+şPÔ˜À*¦œg>Õş­ş[dVô¼´6VİG¸uİNç{hûÚ-n¶²N-	, &kxŞ»VõGV/Æwwn¼õfk_ùÕ"°Hæ™=5>©jihEjlµ¼±º¹0üàôìh¶İoeºzX@Å$î66æÎ¬õ»n0;ê­-?¢êfWGV¾_­şX Óe#„Á|g\ÓªMë@«6p…,€i±ëÕ =,¥J«V2«_|’;ÀÔÙcÅçt”²®†›WÎwàÖ•	À©+J;¸UÓ(«‡L° ¦Â.Šò®F2ÊêE¦f³éY;5;ìJñÃ¢¨«ŠÒX=à!@gÔULáYµÅáÂn3Áè€½Ñ€«âaÁ±8\ØU`²ÔÕ€«ôaÁ±h¬.X “¢®\-ëª ±ºA`‘ÌyîSà÷òóp5®«‚ÆJ'°€jèã	¹êjÀÕ¾®
++—ÀºpRW•H`ŒI]¸ª«‚ÆÊ"°Èç4¬8«´ü\€)X £PWàøª`ˆ•B`Ñ†X“d|UN~(l]4Öô	,€-¨+¼®
+kšÀfê
+H!°èG	'äø`ÙøqÆW-±¦C`D¨+"B] ±¦L`ÑE†Xã0¾*? —ÀºpÃÀøjT†XS#°è.C¬Q_•‡Ä ÓtÏÌ~o @ßtZWí¥[µ_£bYÒXt]³ÙôÊÕÊøªBÚ‹jùÔ¿ÖŠÀ¢4Ö0uU~[„Q'EÕnË¯m½Yk l¼@MÈ«SàE/6Ğt¢j-7[Ü‘}Ô˜À¢G±Âøª¬6Ï–º”V#-ßâ~­
+¨ã>zjK]MS7¦>İYMŞâË£67n·£:¼M	=5°s,¯JeS–´*´´¬¨–r¥U+™Õ'ëÉsªûä	,zm ‡XÆWåÑh4Ê˜V­6e–5•æ“ÜéƒúxwuUF£u5lù¦ªÉ‹ş9–º*‰*¥Õ0£,¨2,ú¦ös,uU•¬«aËı½<ÊÅß~$E?Õ¸±ÔUTì°àX.„
+rˆ>«å±BuÕ%=ªuH«aBÕ˜`ÑÅ«¿7ÔUwt:¿©U]s¸ªC`Q
+Íf³‡›¾‘~oÈ «g]4V?r¬ß›A]	,J¤ÒepUu®«‚Æ¢ßœç>‹r©âáB‡Ë£şuUĞXPz‹Ò©ÖáB‡ËcPêª ± Ü%UşQ–ÁU©V]4”˜i ¼Šv)á‰¨Å>MZ0EÙ•*³¤U9âøª°Ü‡cAI	,ª¡5³¢ç¥5|Æ¬„·®
+‹rLzòU2¼éÙ@ËÈªä½®
+ÊG`QIm­H­Ö_Ñì´ Æ<½;5üˆeMH`Qa­õÓövª^7Û^)DUU_mfˆ%#°¨‰¶]KGo_·[ª"uÕNcA™,êÉn€>òA£@õ_ÎGBi, €d¨ã«ñbA9, Q…ş¨|Ùø3¬“!°€*1¾š˜!”€À H&°  ’	, 2œ,G	¡ß ÊyîSà÷IX@u_M!ô•À H&°  ’	, ìê¢{œ†Õ'`MÀ*Â	XrôÀ` bM’ñUG @2 L`0è%œãƒX õå<wè0mOG¼1âÜÑşé–ˆÅ‹#¾Úë¢#†Xã0¾š0m×GlŒ8tÄåë#ÎñBƒÈó`Ú®xiÄ#.¿$bEÄ;{¿AL…!Ö¨Œ¯¦ff¿7  âÖDÜqøˆßXWD|+âØˆyıÙ. À7Eœ:î.‰X´é¿oŒø£ü‡ˆí#>qeúöÑ-Íf³Ñh×3¾š²†É[ÏêÄë|§4VA]M‡s°  ’™`e×h4úó—ÿ4âÙˆŸnú¿"~7â5ßk¹ÎŸˆø\Äá-~%â»—G,ŒˆˆïFœqBÄ)½Ùî--6„˜
+C,ã«i2Á˜†ë"fEÒrÉ#—Fœ°©®¨¦G¡ºš>0U#nˆ8(bÛ–Ï‰Ø9âø¾mY¶±ÔU
+ï"˜ªÛ#‹xkË%"nˆˆ%#®üÍˆoF¼3âÌŞlĞO&X Sõ“ˆ¡-‹zÀ!–ñU,€É)~!}"âéˆí#†"®Ø/bÇ–ëÌˆQÎÇïïIîLÏ@}2–ºJd‚09ˆù«#ş0â[÷F¬íóE©™c©«\(»f³‹û½…“#vˆØ&bAÄuQúÀòIjßXê*ÏÁ* o…5£#¶Šøn¿7c|+U]ª«npÀ”|¿ß@ÏÕò|,uÕ%ÀdÇ
+ëq¸°¡®ºÉ :PIÕGYÒªÛL°€
+(Ñyîâ¬nªôiïêª LE:,Ø3ÀUëp¡´ê%, ˜–ò²®zÏç`•QÆOÃ*-'`õC£ÑˆˆR=îEöY½ç! ä>b%È,iÕ_&X@•bMŠñU	™=/­á#•Ö@™`@¾á¾éÙ@ËÈªT tQëqÃ/É»ñÖ3ë¥U©8DTŒ£„p|°ôZc+:ì­¶÷*úY—–	 ôT[µõVG_Ki™`Õcˆ5&ã+(4
+ L`Õão?Îø
+JC` $X@%bµ3¾‚2X@Ui¬ÍÔ”ŒÀ H&°€
+3ÄŠ0¾‚2X@µzc©+(%TŞà6–º‚²X  ÉPƒ8Ä2¾‚X@MVc©+(7ÔÇ 4–º‚ÒX@­Ô¿±ÔTÀê¦Î¥® "PCõl,uÕÑğtêªÑhDD,ï÷vLßâˆPWP%¨¹F£QíÆ2¸‚
+rˆ¨¹j.TWPM&XÀ@¨ŞáB‡¡Ê0@*s¸Ğà
+*N`ƒ¥ì£,ƒ+¨¢2f–´‚XÀà*KfI+¨º3+z^Z›ŞÛèuêG`¼¨w-#+¨;°…Í­H­–ÏâòÂµ'° Æ´ElE‡½µå§›z±…"° &«½·ÆåÕ™À Hæo $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $X  É @2 L` $ûÿ19rOD^|    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/images/simple_zx_diagram.png
+
+‰PNG
+
+   IHDR  ô  ô   D´Hİ  
+lIDATxœíÜMRÉFÑª½$ö¿ïIoPnLÌ*3o3±&¬ Ñå‹”`¿İn -ÿı  ø~â$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î Aâ$î AÿŒ~ <Ğ¾ïŸÿÇ·Ûíq„Ó8târÿÄşñçëi¿Šûƒû›uè!»ãøõıJÍ?ğôóO_!sz>ôo<çÒ;ô q_ØCšşšÊÏäMãù÷/}]â¾¤ŸÏğ‡6ıµ§mólç8ô“?ûGåúŠÄ}1c²ş’ÄŸnHÖÿó ¶msè«÷eŒÏúKŠáYIâ×"î˜+ë/IüÃL•õ—$~â>»}ßgÌúKOêßlß÷É?¡»¾OOÜç5ï`Í„ÿ&Óö×LøÉ‰û¤ì¯™ğgşÁşš	?-¿[fFK–}Û¶_ûÙw^Z±ìÛ¶İ¾ø8å>—•®b~ÇÍ-tó;®h&$îYu°¿ÉÍç,:ØßäŠf*®ef‘*ûæŠæSJeß\ÑLFÜ§P+ûAßß+ûAßç!îã5Ë~Ğ÷ßH–ı ï“÷ÁÊe?èû+á²ô}â$î#õgûÁx!?ÛÆûpâ>ÌUÊ~Ğ÷mÛ.Söƒ¾%îc\«ì‡Ë÷ıRe?èû@â$î\q¶.<Ş/8ÛÆû(â~¶ë–ıpÉ¾_¶ì}BÜ‚ÄıTWŸí‡‹÷‹Ïöƒñ~>q÷ó˜í¿\f¼›íÏŒ÷“‰;@¸ŸÄl¿wñn¶ß1ŞÏ$î Aâ~³ıméñn¶¿Éx?¸‰;@¸?œ;™÷DofÜÉ¼ÃÍÌ9Ä HÜ‚Äı±ÜÉ|,w3ãNæCnfN î Aâ$î Aâ$îäÕÔÏ
+½¦êÕÔOòšê£‰;@¸‰;@¸‰;@¸ı3ú¼Í{¤.È¡_PæĞo·éŞk¹MºÜ'ü6ø2«äı‚‡>'Ë HÜ‚Ä HÜ‚Ä HÜèv»mO£Ä:ïš¸İnŞ.ó»·Ê<˜¸‰;@¸‰;@¸?–×T?z5õà5Õy5õâ$î AâşpnfŞ“»“9¸™y‡;™sˆ;@¸‰ûÜÌ¼-z'sp3ó&w2§w€ q?‰ñ~/=ÛÆû³ıLâ$îç1Ş¹Àl?ïÏÌö“‰;@¸ŸÊxß¶Íöƒñ¾™í#ˆ;@¸Ÿíêãıb³ıpññn¶!î\·ï—,ûá²}WöQÄ HÜÇ¸âx¿ğl?\p¼›í‰û0×êûåË~¸Tß•},qé*}Wö.ÒweNÜ‚Ä}°şx7Û_Éw³}â>^¹ïÊşá¾+û$Ä}
+Í¾+û»’}Wöyˆû,j}WöOˆõ]Ù§²;Œ©ìû¾mÛöcôãøOÛæIşÇ¡/ıù:¾E9ô©ˆûŒö}_µïûŸÚ÷}ÑOœÁ>'×23ZõŠFÙÿÂ¢W4Ê>-Ë}^+]Ñ¸Šù&]Ñ¸Š™œ¸Ïn+ƒı»ÍEc°ÏOÜ0ï„7ØfÚ	o°¯BÜ—1WâeıS%^Ö×"î‹ŸxY?İğÄËúŠÄ}Ic/ëCI¼¬¯KÜö3ñÛƒ+ÿï›2}©ÌàùĞzÏoÊtèë÷‚‡T^ÓçöˆÊkz‰¸§üªüáK­ÿïMùÂXÅİ¡éØî~lÊ¡—ˆ{Ù}ëßå+¡Á¡sw€ ¿[ HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚Ä HÜ‚ş2í.}dé,    IEND®B`‚
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://xqxucnly.manus.space/styles.css
+
+@charset "utf-8";
+
+:root { --primary-color: #2c3e50; --secondary-color: #3498db; --accent-color: #e74c3c; --background-color: #f9f9f9; --text-color: #333; --link-color: #2980b9; --link-hover-color: #3498db; --code-background: #f0f0f0; --border-color: #ddd; }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: var(--text-color); background-color: var(--background-color); max-width: 1200px; margin: 0px auto; padding: 20px; }
+
+header { text-align: center; margin-bottom: 2rem; padding: 2rem 0px; border-bottom: 1px solid var(--border-color); }
+
+header h1 { color: var(--primary-color); font-size: 2.5rem; margin-bottom: 0.5rem; }
+
+.subtitle { font-size: 1.2rem; color: var(--secondary-color); }
+
+nav { background-color: white; padding: 1.5rem; margin-bottom: 2rem; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px; }
+
+nav h2 { color: var(--primary-color); margin-bottom: 1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem; }
+
+nav ul { list-style-type: none; }
+
+nav ul li { margin-bottom: 0.5rem; }
+
+nav ul li a { color: var(--link-color); text-decoration: none; display: block; padding: 0.5rem; border-radius: 3px; transition: background-color 0.2s; }
+
+nav ul li a:hover { background-color: rgba(52, 152, 219, 0.1); color: var(--link-hover-color); }
+
+.appendix { margin-top: 1rem; font-style: italic; }
+
+main { background-color: white; padding: 2rem; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px; }
+
+section { margin-bottom: 2.5rem; }
+
+h2 { color: var(--primary-color); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border-color); }
+
+h3 { color: var(--secondary-color); margin: 1.5rem 0px 1rem; }
+
+p { margin-bottom: 1rem; }
+
+ul, ol { margin-left: 2rem; margin-bottom: 1rem; }
+
+a { color: var(--link-color); text-decoration: none; }
+
+a:hover { color: var(--link-hover-color); text-decoration: underline; }
+
+.diagram { text-align: center; margin: 2rem 0px; }
+
+.diagram img { max-width: 100%; height: auto; border-radius: 5px; }
+
+.caption { font-style: italic; color: rgb(102, 102, 102); text-align: center; margin-top: 0.5rem; }
+
+code { font-family: "Courier New", Courier, monospace; background-color: var(--code-background); padding: 0.2rem 0.4rem; border-radius: 3px; }
+
+pre { background-color: var(--code-background); padding: 1rem; border-radius: 5px; overflow-x: auto; margin-bottom: 1rem; }
+
+blockquote { border-left: 4px solid var(--secondary-color); padding-left: 1rem; margin-left: 0px; margin-bottom: 1rem; color: rgb(85, 85, 85); }
+
+.note { background-color: rgba(52, 152, 219, 0.1); border-left: 4px solid var(--secondary-color); padding: 1rem; margin: 1rem 0px; border-radius: 0px 5px 5px 0px; }
+
+.warning { background-color: rgba(231, 76, 60, 0.1); border-left: 4px solid var(--accent-color); padding: 1rem; margin: 1rem 0px; border-radius: 0px 5px 5px 0px; }
+
+table { width: 100%; border-collapse: collapse; margin-bottom: 1rem; }
+
+th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border-color); }
+
+th { background-color: var(--code-background); color: var(--primary-color); }
+
+footer { text-align: center; margin-top: 2rem; padding: 1rem 0px; color: rgb(119, 119, 119); font-size: 0.9rem; border-top: 1px solid var(--border-color); }
+
+@media (max-width: 768px) {
+  body { padding: 10px; }
+  header h1 { font-size: 2rem; }
+  nav, main { padding: 1rem; }
+}
+
+@media print {
+  body { background-color: white; color: black; }
+  nav { display: none; }
+  main { box-shadow: none; }
+  a { color: black; text-decoration: none; }
+  header, footer { text-align: center; }
+}
+
+.chapter-title { margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--border-color); }
+
+.chapter-title:first-of-type { margin-top: 0px; padding-top: 0px; border-top: none; }
+
+.toc-link { font-weight: bold; }
+
+#table-of-contents { position: relative; margin-bottom: 2rem; }
+
+.back-to-top { position: fixed; bottom: 20px; right: 20px; background-color: var(--primary-color); color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; justify-content: center; align-items: center; text-decoration: none; font-weight: bold; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 5px; z-index: 1000; }
+
+.back-to-top:hover { background-color: var(--secondary-color); color: white; text-decoration: none; }
+------MultipartBoundary--W9S2DD9373Nn4pIJmhkbR9pZH10GIbqyvywdnBmgTn------
